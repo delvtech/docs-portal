@@ -39,7 +39,7 @@
 * [Element SDK](https://github.com/element-fi/elf-sdk)
 * [Public Release Changelog](developers/public-releases.md)
 * [Deployment Guide](https://github.com/element-fi/elf-deploy)
-* [Security](developers/bug-bounty-programs/README.md)
+* [Security](developers/security/README.md)
   * [Element Bug Bounty](https://element.fi/security)
   * [Immunefi Program](https://immunefi.com/bounty/elementfinance/)
 * [Github](https://github.com/element-fi)
