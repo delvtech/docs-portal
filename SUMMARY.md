@@ -42,6 +42,7 @@
 * [Security](developers/security/README.md)
   * [Element Bug Bounty](https://element.fi/security)
   * [Immunefi Program](https://immunefi.com/bounty/elementfinance/)
+  * [Admin Keys](developers/security/admin-keys.md)
 * [Github](https://github.com/element-fi)
 * [Construction Paper](https://paper.element.fi/)
 
