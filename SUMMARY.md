@@ -12,7 +12,7 @@
   * [Providing Liquidity](getting-started/faq/providing-liquidity.md)
 * [Glossary](getting-started/glossary.md)
 
-## Element Protocol Core Concepts <a href="element" id="element"></a>
+## Element Protocol <a href="element" id="element"></a>
 
 * [Concepts Overview](element/concepts-overview.md)
 * [Principal Tokens](element/principal-tokens/README.md)
@@ -21,26 +21,25 @@
   * [Use Cases](element/yield-tokens/use-cases.md)
 * [Market Forces](element/market-forces.md)
 * [Providing Liquidity](element/providing-liquidity.md)
+* [Element Protocol Smart Contracts](element/element-smart-contracts/README.md)
+  * [Core Protocol Contracts](element/element-smart-contracts/core-protocol-contracts/README.md)
+    * [Wrapped Position](element/element-smart-contracts/core-protocol-contracts/wrapped-position.md)
+    * [Tranche](element/element-smart-contracts/core-protocol-contracts/tranche.md)
+    * [Tranche Factory](element/element-smart-contracts/core-protocol-contracts/tranche-factory.md)
+    * [Interest Token](element/element-smart-contracts/core-protocol-contracts/interest-token.md)
+    * [User Proxy](element/element-smart-contracts/core-protocol-contracts/user-proxy.md)
+  * [Integration Contracts](element/element-smart-contracts/integration-contracts/README.md)
+    * [Yearn Vault Asset Proxy](element/element-smart-contracts/integration-contracts/yearn-vault-asset-proxy.md)
+  * [Custom Balancer Curve](element/element-smart-contracts/custom-balancer-curve/README.md)
+    * [Convergent Curve Pool](element/element-smart-contracts/custom-balancer-curve/convergent-curve-pool.md)
+    * [Convergent Curve Pool Factory](element/element-smart-contracts/custom-balancer-curve/convergent-curve-pool-factory.md)
 
 ## Developers
 
-* [Element Protocol Smart Contracts](developers/element-smart-contracts/README.md)
-  * [Core Protocol Contracts](developers/element-smart-contracts/core-protocol-contracts/README.md)
-    * [Wrapped Position](developers/element-smart-contracts/core-protocol-contracts/wrapped-position.md)
-    * [Tranche](developers/element-smart-contracts/core-protocol-contracts/tranche.md)
-    * [Tranche Factory](developers/element-smart-contracts/core-protocol-contracts/tranche-factory.md)
-    * [Interest Token](developers/element-smart-contracts/core-protocol-contracts/interest-token.md)
-    * [User Proxy](developers/element-smart-contracts/core-protocol-contracts/user-proxy.md)
-  * [Integration Contracts](developers/element-smart-contracts/integration-contracts/README.md)
-    * [Yearn Vault Asset Proxy](developers/element-smart-contracts/integration-contracts/yearn-vault-asset-proxy.md)
-  * [Custom Balancer Curve](developers/element-smart-contracts/custom-balancer-curve/README.md)
-    * [Convergent Curve Pool](developers/element-smart-contracts/custom-balancer-curve/convergent-curve-pool.md)
-    * [Convergent Curve Pool Factory](developers/element-smart-contracts/custom-balancer-curve/convergent-curve-pool-factory.md)
-* [Element SDK](https://github.com/element-fi/elf-sdk)
 * [Public Release Changelog](developers/public-releases.md)
+* [Element SDK](https://github.com/element-fi/elf-sdk)
 * [Deployment Guide](https://github.com/element-fi/elf-deploy)
 * [Security](developers/security/README.md)
-  * [Element Bug Bounty](https://element.fi/security)
   * [Immunefi Program](https://immunefi.com/bounty/elementfinance/)
   * [Admin Keys](developers/security/admin-keys.md)
 * [Github](https://github.com/element-fi)
@@ -62,6 +61,7 @@
   * [Simple Proxy](governance-council/council-protocol-smart-contracts/simple-proxy.md)
   * [Storage](governance-council/council-protocol-smart-contracts/storage.md)
   * [History](governance-council/council-protocol-smart-contracts/history.md)
+* [Audits](https://github.com/element-fi/council/tree/main/audits)
 
 ## Community
 
