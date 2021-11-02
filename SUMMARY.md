@@ -52,6 +52,7 @@
   * [Core Voting](governance-council/council-protocol-smart-contracts/core-voting.md)
   * [Voting Vaults](governance-council/council-protocol-smart-contracts/voting-vaults/README.md)
     * [Locking Vault](governance-council/council-protocol-smart-contracts/voting-vaults/locking-vault.md)
+    * [Vesting Vault](governance-council/council-protocol-smart-contracts/voting-vaults/vesting-vault.md)
 
 ## Community
 
