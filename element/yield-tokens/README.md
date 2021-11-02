@@ -11,10 +11,9 @@ The redemption value for a YT at the end of the defined term will be the average
 
 ![](https://i.imgur.com/SixqVVj.jpg)
 
-However, by definition, no variable yield position on the market maintains its listed yield rate \(APY\). The APYs constantly fluctuate. This implies that the real redeemable yield at the end of the year is unknown.
+However, by definition, no variable yield position on the market maintains its listed yield rate (APY). The APYs constantly fluctuate. This implies that the real redeemable yield at the end of the year is unknown.
 
-**Notes:** 
+**Notes:**&#x20;
 
 * The use of 1-year terms displayed in the above examples is purely for simplicity. The Element protocol will initially allow users to mint both 3-month and 6-month terms.
-* The combined yield token and principal token redemption at maturity will not exceed the value of the yield asset in the Ethereum contracts. The yield token is only redeemable for the differential in value of the underlying yield asset from the original principal. It does not transfer financial risk associated with a future change in any such value or level without also conveying a current or future direct or indirect ownership interest in an asset \(including any enterprise or investment pool\) or liability that incorporates the financial risk so transferred. All growth or changes are denominated in the original asset.
-
+* The combined yield token and principal token redemption at maturity will not exceed the value of the yield asset in the Ethereum contracts. The yield token is only redeemable for the differential in value of the underlying yield asset from the original principal. It does not transfer financial risk associated with a future change in any such value or level without also conveying a current or future direct or indirect ownership interest in an asset (including any enterprise or investment pool) or liability that incorporates the financial risk so transferred. All growth or changes are denominated in the original asset.

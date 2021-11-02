@@ -4,15 +4,15 @@
 
 ## Getting Started
 
-* [Element Mainnet App](http://element.fi/)
-* [Element Testnet App](https://testnet.element.fi/)
+* [Element Mainnet App](http://element.fi)
+* [Element Testnet App](https://testnet.element.fi)
 * [FAQ](getting-started/faq/README.md)
   * [Earning Variable Rates](getting-started/faq/earning-variable-rates.md)
   * [Buying Fixed Rate Assets](getting-started/faq/buying-fixed-rates.md)
   * [Providing Liquidity](getting-started/faq/providing-liquidity.md)
 * [Glossary](getting-started/glossary.md)
 
-## Element Core Concepts <a id="element"></a>
+## Element Protocol Core Concepts <a href="element" id="element"></a>
 
 * [Concepts Overview](element/concepts-overview.md)
 * [Principal Tokens](element/principal-tokens/README.md)
@@ -24,7 +24,7 @@
 
 ## Developers
 
-* [Element Smart Contracts](developers/element-smart-contracts/README.md)
+* [Element Protocol Smart Contracts](developers/element-smart-contracts/README.md)
   * [Core Protocol Contracts](developers/element-smart-contracts/core-protocol-contracts/README.md)
     * [Wrapped Position](developers/element-smart-contracts/core-protocol-contracts/wrapped-position.md)
     * [Tranche](developers/element-smart-contracts/core-protocol-contracts/tranche.md)
@@ -44,15 +44,21 @@
   * [Immunefi Program](https://immunefi.com/bounty/elementfinance/)
   * [Admin Keys](developers/security/admin-keys.md)
 * [Github](https://github.com/element-fi)
-* [Construction Paper](https://paper.element.fi/)
+* [Construction Paper](https://paper.element.fi)
+
+## Governance (Council)&#x20;
+
+* [Council Protocol Smart Contracts](governance-council/council-protocol-smart-contracts/README.md)
+  * [Core Voting](governance-council/council-protocol-smart-contracts/core-voting.md)
+  * [Voting Vaults](governance-council/council-protocol-smart-contracts/voting-vaults/README.md)
+    * [Locking Vault](governance-council/council-protocol-smart-contracts/voting-vaults/locking-vault.md)
 
 ## Community
 
----
+***
 
 * [Discord](https://discord.com/invite/8JnDyXJJWh)
 * [Medium](https://medium.com/element-finance)
-* [Twitter](https://twitter.com/element_fi)
+* [Twitter](https://twitter.com/element\_fi)
 * [Telegram Announcements](https://t.me/elementfinance)
-* [Youtube \(Community Calls and Video Guides\)](https://www.youtube.com/channel/UCwxX4xrw-AZF_7dB7gVMaSw)
-
+* [Youtube (Community Calls and Video Guides)](https://www.youtube.com/channel/UCwxX4xrw-AZF\_7dB7gVMaSw)

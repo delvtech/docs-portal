@@ -13,9 +13,7 @@ The interest token is a simple ERC20 token with permit functionality that is use
 
 The name of the Interest token is assembled as the following example `eY:yUSDC:03:JAN-2021:GMT`
 
-* `eY` States that this is the Interest Token \(yield token\).
+* `eY` States that this is the Interest Token (yield token).
 * `yUSDC` This is the Yield Bearing Asset.
 * `03:JAN-2021:GMT` This is the expiration of the Tranche, after which the token can be redeemed.
-
-
 

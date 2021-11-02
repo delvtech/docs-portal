@@ -22,7 +22,7 @@ Because the price of principal tokens converges to the value of the underlying a
 
 ### Capital Efficiency
 
-‌Users who want to earn the variable interest gain of a specific asset \(such as USDC or DAI\) but want access to their capital to further utilize their assets elsewhere can choose to sell their principal tokens at a discount to gain capital efficiency.
+‌Users who want to earn the variable interest gain of a specific asset (such as USDC or DAI) but want access to their capital to further utilize their assets elsewhere can choose to sell their principal tokens at a discount to gain capital efficiency.
 
 ### Increasing Exposure to Variable Interest
 
@@ -48,5 +48,4 @@ Traders who want to enter and exit various fixed and variable yield rates can ea
 
 Element's principal tokens that trade at a discount create a fixed rate that allows for users to build their custom-tailored principal protected product. In short, this means at the time of purchase, the fixed rate is secured and provides users with the additional capital that can be allocated towards variable interest strategies. These type of products rollover perpetually and take on the subsequent fixed rate term when the current one matures.
 
-![](../../.gitbook/assets/image%20%281%29.png)
-
+![](<../../.gitbook/assets/image (5).png>)

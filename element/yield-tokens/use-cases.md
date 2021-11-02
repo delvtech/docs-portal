@@ -33,4 +33,3 @@ For sophisticated traders who observe the discounted trading value of principal 
 #### Trade between different Yield Types and Rates
 
 Traders who want to enter and exit various fixed and variable yield rates can easily do so due to the two liquid markets Element provides for Principal and Yield Tokens. This allows users who change sentiments around the interest rate market to quickly enter a fixed rate market for hedging or the latter depending on how they feel the market outlook will be in the coming months or year.
-

@@ -6,7 +6,7 @@ description: The Core Concepts of the Element Protocol
 
 ### The Core Construct
 
-The Element Protocol, at its core, works by enabling users via the Ethereum contracts to split the base asset \(ETH, BTC, USDC, DAI\) of yield generating positions, such as a Yearn vault or an ETH2 validator, into two separate, fungible tokens: the Principal Token \(PT\), and the Yield Token \(YT\). One token represents the value of the base principal \(called the Principal Token\), and one token represents the variable interest gained from the yield generating protocol \(called the Yield Token\).
+The Element Protocol, at its core, works by enabling users via the Ethereum contracts to split the base asset (ETH, BTC, USDC, DAI) of yield generating positions, such as a Yearn vault or an ETH2 validator, into two separate, fungible tokens: the Principal Token (PT), and the Yield Token (YT). One token represents the value of the base principal (called the Principal Token), and one token represents the variable interest gained from the yield generating protocol (called the Yield Token).
 
 ![](https://i.imgur.com/6MuPE9S.png)
 
@@ -31,4 +31,3 @@ By performing this action, the user facilitates exit liquidity for a seller to r
 ![](https://i.imgur.com/GybzLUJ.jpg)
 
 A user who wants to utilize the entire value of their capital towards variable interest, can do so and gain a very high return if the average APY of the vault utilized stays consistent.
-

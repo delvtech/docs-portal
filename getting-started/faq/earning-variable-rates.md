@@ -2,7 +2,7 @@
 
 ## How do I deposit and earn Variable Rates?
 
-If you would like to deposit, simply navigate to the Deposit page and choose the Asset, Vault, and Term you would like to deposit into. Once your assets are deposited you will be issued Principal Tokens and Yield Tokens based on your deposited amount. 
+If you would like to deposit, simply navigate to the Deposit page and choose the Asset, Vault, and Term you would like to deposit into. Once your assets are deposited you will be issued Principal Tokens and Yield Tokens based on your deposited amount.&#x20;
 
 ## How much will I earn?
 
@@ -29,4 +29,3 @@ For a user to exit their Term, they may opt to sell their issue Principal and Yi
 ## Where does the variable yield come from?
 
 The variable interest rate for the current user deposits are sourced from [Yearn vault strategies](https://yearn.finance/vaults).
-

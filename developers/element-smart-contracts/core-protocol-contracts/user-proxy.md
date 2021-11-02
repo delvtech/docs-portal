@@ -11,7 +11,7 @@ The User Proxy is a user convenience contract that consolidates the actions need
 
 ### **Glossary**
 
-* **Tranche:** The contract which locks wrapped Yearn shares and mints yield and principal tokens.
+* **Tranche: **The contract which locks wrapped Yearn shares and mints yield and principal tokens.
 
 ## 2. Contract Details
 
@@ -26,11 +26,10 @@ The User Proxy is a user convenience contract that consolidates the actions need
 
 The User Proxy can be frozen by an authorized address for any reason, it can also be deprecated by the owner. This will completely destroy the contract.
 
-## 4. Gotchas \(Potential source of user error\)
+## 4. Gotchas (Potential source of user error)
 
 A call to `withdrawWeth` in order to withdraw and unwrap the WETH can be more expensive than a manual withdrawal followed by an unwrapping. The only benefit is that it is conveniently done in a single function.
 
-## 5. Failure Modes \(Bounds on Operating Conditions & External Risk Factors\)
+## 5. Failure Modes (Bounds on Operating Conditions & External Risk Factors)
 
 If the `isFrozen` flag is flipped on, the contract will not be able to operate.
-

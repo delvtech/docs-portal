@@ -14,21 +14,19 @@ First, you will need an ERC-20 Ethereum wallet, some ETH to pay for transaction 
 
 ## How does Element work?
 
-Element Finance enables deposits for users who want to take a variable interest position on a specific asset. The current underlying variable interest strategies are integrated from [Yearn](https://yearn.finance/) strategies. When the user makes a deposit, they may choose from a variety of different lockup terms for their assets. After a user chooses a Term Period, a Principal Token and a Yield Token are minted by the protocol and issued to the user which is redeemable at the chosen Term Period.
+Element Finance enables deposits for users who want to take a variable interest position on a specific asset. The current underlying variable interest strategies are integrated from [Yearn](https://yearn.finance) strategies. When the user makes a deposit, they may choose from a variety of different lockup terms for their assets. After a user chooses a Term Period, a Principal Token and a Yield Token are minted by the protocol and issued to the user which is redeemable at the chosen Term Period.
 
 ## How is Element useful?
 
 Many types of users can benefit from using Element Finance. The users who are highly speculative on Variable Yield, the risk-averse users who want a stable form of Fixed Rates, and the Traders who capitalize on the trading markets of these token splits.
 
-The highly sophisticated users who want to efficiently allocate their capital towards variable interest can choose to deposit their assets into Element and sell their Principal Tokens to repurpose their capital and increase their exposure to variable interest. This process is called Yield Token Compounding.  
-  
+The highly sophisticated users who want to efficiently allocate their capital towards variable interest can choose to deposit their assets into Element and sell their Principal Tokens to repurpose their capital and increase their exposure to variable interest. This process is called Yield Token Compounding.\
+\
 The risk-averse users can choose to buy discounted assets that are being sold by the speculative users to earn a guaranteed fixed rate yield as the assets reach maturity. Additionally, the risk-averse users can choose to stake their assets into the AMM to earn trading fees.
 
 The traders can fill market gaps and inefficiencies by arbitraging the discounted rates as well as the variable rates in the market. Additionally, the traders can arbitrage yields across multiple protocols to keep prices aligned and make a profit.
 
 ## Glossary
 
-For terms that you are unsure or have questions about, check out our ****[**Glossary**](https://app.gitbook.com/@docs-element-finance/s/element-developer-docs/documents/glossary)**.**
-
-
+For terms that you are unsure or have questions about, check out our** **[**Glossary**](https://app.gitbook.com/@docs-element-finance/s/element-developer-docs/documents/glossary)**.**
 

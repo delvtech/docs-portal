@@ -7,21 +7,21 @@
 
 ## 1. Overview
 
-The Tranche contract locks wrapped position shares and mints yield and principal tokens in return. These tokens can be redeemed on Tranche \(term\) expiration.
+The Tranche contract locks wrapped position shares and mints yield and principal tokens in return. These tokens can be redeemed on Tranche (term) expiration.
 
 ### **Glossary**
 
-* **Yield Bearing Asset \(YBA\):** An asset that increases in value, for example, Vault shares.
-* **Underlying token:** The token used by the yield bearing asset to generate yield. \(eg: USDC for USDC yearn vault shares\)
-* **Yield Token \(YT\):** Token representing the yield earned by the deposited wrapped yield bearing assets.
-* **Principal Token \(PT\):** The token representing the initial deposited value of the wrapped yield bearing assets shares.
+* **Yield Bearing Asset (YBA): **An asset that increases in value, for example, Vault shares.
+* **Underlying token:** The token used by the yield bearing asset to generate yield. (eg: USDC for USDC yearn vault shares)
+* **Yield Token (YT): **Token representing the yield earned by the deposited wrapped yield bearing assets.
+* **Principal Token (PT):** The token representing the initial deposited value of the wrapped yield bearing assets shares.
 * **Wrapped position:** Wrapped Yield Bearning Asset.
 
 ## 2. Contract Details
 
 ### **Naming Conventions:**
 
-This contract also acts as the Principal Token \(PT\). The name of the principal token is assembled as the following example `eP:yUSDC:03:JAN-2021:GMT`
+This contract also acts as the Principal Token (PT). The name of the principal token is assembled as the following example `eP:yUSDC:03:JAN-2021:GMT`
 
 * `eP` States that this is the Principal token.
 * `yUSDC` This is the Yield Bearing Asset.
@@ -36,7 +36,7 @@ This contract also acts as the Principal Token \(PT\). The name of the principal
 
 **Storage:** This contract directly extends an ERC20 token which functions as the PT and stores:
 
-* The address of the interest token \(YT\)
+* The address of the interest token (YT)
 * Information related to the YBA such as the address, underlying token address, and underlying token decimal precision.
 * Values used for internal accounting related to user balance, the total value supplied, and the interest token supplied.
 * Miscellaneous variables are used for unlocking and securing the contract from edge cases.
@@ -46,11 +46,10 @@ This contract also acts as the Principal Token \(PT\). The name of the principal
 * This contract directly extends the ERC20 token used as PT. This means that this contract's address is also the PTs address. unlike the PT, the YT is an external contract set on construction.
 * If the yield bearing assets held by this contract have accrued negative interest after the Tranche has expired, then a withdrawal block of 48 hours takes place. If interest rates go back above zero during this period, then the contract resumes normal function. If interest rates stay negative, then the withdrawn principal tokens will be redeemable pro-rata for the holdings of the contract after the wait block ends.
 
-## 4. Gotchas \(Potential source of user error\)
+## 4. Gotchas (Potential source of user error)
 
 * `PrefundedDeposit` will use all underlying tokens available to the Tranche contract at that time, therefore the call that `transferstokens` to the Tranche contract must be called in the same transaction as PrefundedDeposit, or the funds could be unintentionally stolen by the next call to this function.
 
-## 5. Failure Modes \(Bounds on Operating Conditions & External Risk Factors\)
+## 5. Failure Modes (Bounds on Operating Conditions & External Risk Factors)
 
 Failure conditions are very closely related to those of the underlying YBA. If the YBA loses all value due to a hack or a black swan event then the YTs and PTs will not be withdrawable for any value.
-

@@ -20,7 +20,6 @@ The Tranche Factory creates new Tranches on existing wrapped position addresses.
 
 `deployTranche`: Deploys a new tranche given an expiration time and the address of the wrapped position contract.
 
-## 3. Gotchas \(Potential source of user error\)
+## 3. Gotchas (Potential source of user error)
 
 This contract uses CREATE2 to deploy the tranche, therefore redeployment of a tranche with the same expiration and wrapped position address will fail.
-
