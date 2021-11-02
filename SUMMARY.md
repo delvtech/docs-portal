@@ -53,6 +53,15 @@
   * [Voting Vaults](governance-council/council-protocol-smart-contracts/voting-vaults/README.md)
     * [Locking Vault](governance-council/council-protocol-smart-contracts/voting-vaults/locking-vault.md)
     * [Vesting Vault](governance-council/council-protocol-smart-contracts/voting-vaults/vesting-vault.md)
+    * [Governance Steering Council (GSC) Vault](governance-council/council-protocol-smart-contracts/voting-vaults/governance-steering-council-gsc-vault.md)
+  * [Timelock](governance-council/council-protocol-smart-contracts/timelock.md)
+  * [Treasury](governance-council/council-protocol-smart-contracts/treasury.md)
+  * [Spender](governance-council/council-protocol-smart-contracts/spender.md)
+  * [Optimistic Grants](governance-council/council-protocol-smart-contracts/optimistic-grants.md)
+  * [Optimistic Rewards](governance-council/council-protocol-smart-contracts/optimistic-rewards.md)
+  * [Simple Proxy](governance-council/council-protocol-smart-contracts/simple-proxy.md)
+  * [Storage](governance-council/council-protocol-smart-contracts/storage.md)
+  * [History](governance-council/council-protocol-smart-contracts/history.md)
 
 ## Community
 

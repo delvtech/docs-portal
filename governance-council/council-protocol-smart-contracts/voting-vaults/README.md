@@ -1,6 +1,6 @@
 # Voting Vaults
 
-## Overview
+### Overview
 
 Voting Vaults provide the ability to assign voting power to specific types of tokens/positions. The result is beautiful — governance users can maximize capital efficiency while maintaining the ability to delegate or vote when the time comes. Voting vaults are designed to be upgraded, allowing for voting vault logic to be updated by governance and to avoid the pains that come with governance upgrade migrations.
 
