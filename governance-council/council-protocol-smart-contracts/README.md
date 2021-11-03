@@ -12,9 +12,16 @@ Council is inspired by and extends several forerunners in the DAO governance spa
 * Council abstracts the vote allocation process for assigning voting power away from the actual voting process meaning that multiple complex vote allocation systems can run in parallel in the contracts.
 * By default, Council ships with a Governance Steering Council (GSC) enabled which can be assigned different powers than the core voting system. Together, these features allow a wide range of voting processes and security procedures can be seamlessly integrated into one governance system.
 
-### Architecture Overview Diagram
+For more details on the key features of the Council governance system, check out the below conference presentations:&#x20;
 
-![](../../.gitbook/assets/council-arch.png)
+{% embed url="https://vimeo.com/637564907" %}
+
+{% embed url="https://www.youtube.com/watch?v=wZj9HgwXel4" %}
+
+## Architecture Overview
+
+![To learn more about the technical architecture of Council, read this blog post.&#x20;
+](../../.gitbook/assets/council-arch.png)
 
 ### Resources
 
