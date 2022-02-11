@@ -12,7 +12,7 @@
   * [Providing Liquidity](getting-started/faq/providing-liquidity.md)
 * [Glossary](getting-started/glossary.md)
 
-## Element Protocol <a href="element" id="element"></a>
+## Element Protocol <a href="#element" id="element"></a>
 
 * [Concepts Overview](element/concepts-overview.md)
 * [Principal Tokens](element/principal-tokens/README.md)
@@ -42,6 +42,7 @@
 * [Security](developers/security/README.md)
   * [Immunefi Program](https://immunefi.com/bounty/elementfinance/)
   * [Admin Keys](developers/security/admin-keys.md)
+  * [Oracles](developers/security/oracles.md)
 * [Github](https://github.com/element-fi)
 * [Construction Paper](https://paper.element.fi)
 
