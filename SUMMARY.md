@@ -48,7 +48,6 @@
 
 ## Governance (Council)
 
-* [Overview](governance-council/council-protocol-smart-contracts/README.md)
 * [Council Protocol Smart Contracts](governance-council/council-protocol-smart-contracts/README.md)
   * [Core Voting](governance-council/council-protocol-smart-contracts/core-voting.md)
   * [Voting Vaults](governance-council/council-protocol-smart-contracts/voting-vaults/README.md)
@@ -64,6 +63,12 @@
   * [Storage](governance-council/council-protocol-smart-contracts/storage.md)
   * [History](governance-council/council-protocol-smart-contracts/history.md)
 * [Audits](https://github.com/element-fi/council/tree/main/audits)
+
+## Airdrop
+
+* [Airdrop - Protocol Users](governance-council/airdrop/README.md)
+  * [Discord ZK Claim Flow](governance-council/airdrop/discord.md)
+  * [GitHub ZK Claim Flow](governance-council/airdrop/github.md)
 
 ## Community
 
