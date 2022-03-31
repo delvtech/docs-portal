@@ -48,6 +48,21 @@
 
 ## Governance (Council)
 
+* [Council Protocol Overview](governance-council/council-protocol-overview/README.md)
+  * [Voting Vaults and Delegation](governance-council/council-protocol-overview/voting-vaults/README.md)
+  * [Lifecycle of a Proposal](governance-council/council-protocol-overview/lifecycle-of-a-proposal/README.md)
+    * [Create a Commonwealth Poll](governance-council/council-protocol-overview/lifecycle-of-a-proposal/commonwealth-poll.md)
+    * [Create a Snapshot Poll](governance-council/council-protocol-overview/lifecycle-of-a-proposal/snapshot-poll.md)
+    * [Create a Council Proposal](governance-council/council-protocol-overview/lifecycle-of-a-proposal/council-proposal.md)
+* [Airdrop](governance-council/airdrop/README.md)
+  * [Guide: Discord ZK Claim Flow](governance-council/airdrop/discord.md)
+  * [Guide: GitHub ZK Claim Flow](governance-council/airdrop/github.md)
+* [Council Protocol Interface](governance-council/council-protocol-interface/README.md)
+  * [Overview](governance-council/council-protocol-interface/overview.md)
+  * [Proposals](governance-council/council-protocol-interface/proposals/README.md)
+    * [Guide: Voting on a Proposal](governance-council/council-protocol-interface/proposals/voting.md)
+  * [Delegate](governance-council/council-protocol-interface/delegate/README.md)
+    * [Guide: Delegating Voting Power](governance-council/council-protocol-interface/delegate/delegating.md)
 * [Council Protocol Smart Contracts](governance-council/council-protocol-smart-contracts/README.md)
   * [Core Voting](governance-council/council-protocol-smart-contracts/core-voting.md)
   * [Voting Vaults](governance-council/council-protocol-smart-contracts/voting-vaults/README.md)
@@ -66,7 +81,7 @@
 
 ## Airdrop
 
-* [Airdrop - Protocol Users](governance-council/airdrop/README.md)
+* [Airdrop Claim Flow](governance-council/airdrop/README.md)
   * [Discord ZK Claim Flow](governance-council/airdrop/discord.md)
   * [GitHub ZK Claim Flow](governance-council/airdrop/github.md)
 

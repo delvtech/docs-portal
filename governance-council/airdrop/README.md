@@ -1,19 +1,17 @@
 ## Airdrop Claim Flow
 
-
-
 ### Who can claim voting power?
 
 You may be eligible to claim voting power if you’re included in any of the following groups:
 
 * **Early users of Element Finance:** Individuals that used the Element protocol to LP, Trade, or Mint 
-* **Ecosystem contributors:** Builders who have contributed to the public goods infrastructure that keeps the Ethereum blockchain running
 * **Community contributors:** Users who have engaged in meaningful conversations on Element’s Discord server.
+* **Ecosystem contributors:** Builders who have contributed to the public goods infrastructure that keeps the Ethereum blockchain running
 
 This guide is for retro recipients who were users of the Element Protocol. If you were part of the ecosystem or community contributors, please follow those appropriate guides:
 
-* [Discord Airdrop Claim Guide](https://docs.element.fi/governance-council/airdrop/discord)
-* [GitHub Airdrop Claim Guide](https://docs.element.fi/governance-council/airdrop/github)
+* [Discord Airdrop Claim Guide (Community contributors)](https://docs.element.fi/governance-council/airdrop/discord)
+* [GitHub Airdrop Claim Guide (Ecosystem contributors)](https://docs.element.fi/governance-council/airdrop/github)
 
 ### How to claim voting power?
 

@@ -36,9 +36,9 @@ Make sure that you see the /submitpublicid message on the screen. This means tha
 
 ### What’s next?
 
-Wait until April 6, 2022 and check your eligibility for the airdrop. If eligible, you’ll be led through a Claim process, very similar to the [Airdrop Claim Flow](https://docs.element.fi/governance-council/airdrop).
+On April 6th, 2022, we’ll announce the link where you can check your eligibility and claim your voting power.
 
-Now that you’ve claimed your voting power, it can be used by your delegate (or yourself, in case of self-delegation) to vote on proposals. 
+Once you’ve claimed your voting power, it can be used by your delegate (or yourself, in case of self-delegation) to vote on proposals. 
 
 * Explore the [Proposals](https://gov.element.fi/proposals) page to stay updated on all new developments
 * Head to the [Delegate](https://gov.element.fi/delegate) page to review or change your delegation
