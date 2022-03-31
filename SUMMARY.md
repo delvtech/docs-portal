@@ -48,7 +48,6 @@
 
 ## Governance (Council)
 
-* [Overview](governance-council/council-protocol-smart-contracts/README.md)
 * [Council Protocol Smart Contracts](governance-council/council-protocol-smart-contracts/README.md)
   * [Core Voting](governance-council/council-protocol-smart-contracts/core-voting.md)
   * [Voting Vaults](governance-council/council-protocol-smart-contracts/voting-vaults/README.md)
