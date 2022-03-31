@@ -28,5 +28,5 @@ The traders can fill market gaps and inefficiencies by arbitraging the discounte
 
 ## Glossary
 
-For terms that you are unsure or have questions about, check out our** **[**Glossary**](https://app.gitbook.com/@docs-element-finance/s/element-developer-docs/documents/glossary)**.**
+For terms that you are unsure or have questions about, check out our **** [**Glossary**](https://app.gitbook.com/@docs-element-finance/s/element-developer-docs/documents/glossary)**.**
 

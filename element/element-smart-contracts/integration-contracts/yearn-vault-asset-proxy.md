@@ -14,7 +14,7 @@ The YVaultAssetProxy contract implements WrappedPosition and performs the actual
 * **Yearn position:** The value an address controls in a yearn vault
 * **Underlying token:** The token accepted by the yearn vault. (eg: USDC for the USDC yearn vault)
 * **Wrapped position token:** The token minted by the Wrapped position contract after depositing.
-* **Reserves: **Value deposited to the contract by a third party used to amortize deposit cost by avoiding yearn interaction on small deposits and withdrawals.
+* **Reserves:** Value deposited to the contract by a third party used to amortize deposit cost by avoiding yearn interaction on small deposits and withdrawals.
 
 ## 2. Contract Details
 
