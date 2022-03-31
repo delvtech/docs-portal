@@ -1,6 +1,6 @@
 ## Delegation Page
 
-![](../../.gitbook/assets/guides/delegation_1.jpeg)
+![](../../../.gitbook/assets/guides/delegation_1.jpeg)
 
 You can view who you’re currently delegating to, alongside a library of delegates. 
 
