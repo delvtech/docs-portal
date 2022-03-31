@@ -48,6 +48,15 @@
 
 ## Governance (Council)
 
+* [Council Protocol Overview](governance-council/council-protocol-overview/README.md)
+  * [Voting Vaults and Delegation](governance-council/council-protocol-overview/voting-vaults.md)
+  * [Governance Steering Council (GSC)](governance-council/council-protocol-overview/governance-steering-council.md)
+* [Council Protocol Interface](governance-council/council-protocol-interface/README.md)
+  * [Overview](governance-council/council-protocol-interface/overview.md)
+  * [Proposals](governance-council/council-protocol-interface/proposals/README.md)
+    * [Guide: Voting on a Proposal](governance-council/council-protocol-interface/proposals/voting.md)
+  * [Delegate](governance-council/council-protocol-interface/delegate/README.md)
+    * [Guide: Delegating Voting Power](governance-council/council-protocol-interface/delegate/delegating.md)
 * [Council Protocol Smart Contracts](governance-council/council-protocol-smart-contracts/README.md)
   * [Core Voting](governance-council/council-protocol-smart-contracts/core-voting.md)
   * [Voting Vaults](governance-council/council-protocol-smart-contracts/voting-vaults/README.md)
@@ -62,6 +71,9 @@
   * [Simple Proxy](governance-council/council-protocol-smart-contracts/simple-proxy.md)
   * [Storage](governance-council/council-protocol-smart-contracts/storage.md)
   * [History](governance-council/council-protocol-smart-contracts/history.md)
+* [Airdrop](governance-council/airdrop/README.md)
+  * [Guide: Discord ZK Claim Flow](governance-council/airdrop/discord.md)
+  * [Guide: GitHub ZK Claim Flow](governance-council/airdrop/github.md)
 * [Audits](https://github.com/element-fi/council/tree/main/audits)
 
 ## Community
