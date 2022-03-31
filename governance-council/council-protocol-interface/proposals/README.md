@@ -1,6 +1,6 @@
 ## Proposals Page
 
-![](../../.gitbook/assets/guides/proposals_1.jpeg)
+![](../../../.gitbook/assets/guides/proposals_1.jpeg)
 
 You can review proposals that are active and still open for voting, as well as past proposals.
 
