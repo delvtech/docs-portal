@@ -12,7 +12,7 @@ The Convergent Curve Pool (CCP) is an implementation of an automated market make
 
 ### **Glossary**
 
-* **Automated Market Maker (AMM): **a trading algorithm that both buys and sells in an asset pair to add liquidity to the market.
+* **Automated Market Maker (AMM):** a trading algorithm that both buys and sells in an asset pair to add liquidity to the market.
 * **Liquidity:** the ability of market participants to quickly purchase or sell an asset on the market.
 * **Slippage:** the difference between hypothetical asset price and the actual price a user gets.
 * **Invariant:** a number that must stay constant or go up when a user makes a trade (eg. x\*y in Uniswap)
@@ -20,7 +20,7 @@ The Convergent Curve Pool (CCP) is an implementation of an automated market make
 
 ## 2. Contract Details
 
-### **Key Functionality **
+### **Key Functionality**&#x20;
 
 * `onSwap`: This method allows a user to indicate the details of a trade which they would like to make and then indicates the result of this trade. The Balancer V2 vault is responsible for managing the pool balances and trades so will call this method when a user requests a trade and use the output to make the trade on behalf of the pool.
 * `onPoolJoin/onPoolExit`: These functions are called by the Balancer V2 Vault when a liquidity provider wants to join or exit the pool. In `onJoin` the caller provides the max amounts of tokens they can input and the pool indicates how many are consumed by the call. In `onExit` the caller provides the minimum output they want to receive and the pool burns enough LP token from them to output that amount. Balancer V2's vault does all of the underlying token management based on the pool's outputs.
@@ -44,7 +44,7 @@ The trade fees are split between the liquidity providers, the Balancer V2 protoc
 * All internal pool calculations are done in 18 point fixed format, but tokens are often in other formats \[USDC is 6 decimal, and WBTC is 8]. The storage variables which track collected fees are in 18 point fixed so if loaded and interpreted using the token decimals may be wrong.
 * The pool uses a proportional method for join and exit, so does not support additions of a single token, unlike other Balancer pools.
 * In Balancer V2 arrays of input, values must be provided in order of the numerical order of the token addresses. So users who call join or exit on the pool must also provide their balances in this order.
-  * **For example: **If USDC has address 0x03 and eUSDC has address 0x02, and I wish to deposit 50 USDC and 75 eUSDC I must provide \[75, 50] not \[50, 75] with my call to join the pool.
+  * **For example:** If USDC has address 0x03 and eUSDC has address 0x02, and I wish to deposit 50 USDC and 75 eUSDC I must provide \[75, 50] not \[50, 75] with my call to join the pool.
 * To set trade prices the pool uses 'virtual reserve logic' which adds the total supply of LP tokens to the supply of bond tokens before applying the invariant.
 
 ## 5. Failure Modes (Bounds on Operating Conditions & External Risk Factors)

@@ -6,10 +6,10 @@
 
 * [Element Mainnet App](http://element.fi)
 * [Element Testnet App](https://testnet.element.fi)
-* [FAQ](getting-started/faq/README.md)
-  * [Earning Variable Rates](getting-started/faq/earning-variable-rates.md)
-  * [Buying Fixed Rate Assets](getting-started/faq/buying-fixed-rates.md)
-  * [Providing Liquidity](getting-started/faq/providing-liquidity.md)
+* [Buying Fixed Rate Assets](getting-started/buying-fixed-rates.md)
+* [Earning Variable Rates](getting-started/earning-variable-rates.md)
+* [Providing Liquidity](getting-started/providing-liquidity.md)
+* [FAQ](getting-started/faq.md)
 * [Glossary](getting-started/glossary.md)
 
 ## Element Protocol <a href="#element" id="element"></a>
@@ -77,8 +77,6 @@
 * [Audits](https://github.com/element-fi/council/tree/main/audits)
 
 ## Community
-
-***
 
 * [Discord](https://discord.com/invite/8JnDyXJJWh)
 * [Medium](https://medium.com/element-finance)

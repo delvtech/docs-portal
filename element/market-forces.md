@@ -10,7 +10,7 @@ For an in-depth explanation of the various Market Forces, you can read this [**s
 
 When the buying demand for fixed rates (principal tokens) increase, the discounted market rate begins to lower. This means that users who want to increase their exposure to variable interest will sell less of their total assets in order to attain capital.&#x20;
 
-This makes processes such as [**Yield Token Compounding **](https://medium.com/element-finance/intro-to-yield-token-compounding-40a75a11e18c)even more profitable.&#x20;
+This makes processes such as [**Yield Token Compounding** ](https://medium.com/element-finance/intro-to-yield-token-compounding-40a75a11e18c)even more profitable.&#x20;
 
 ### Increased Selling Supply for Fixed Rates
 
@@ -26,12 +26,12 @@ Element's primitives allow for usability that extends beyond fixed and variable 
 
 The below diagram provides an overview visualization of all the market forces affecting both Yield and Principal Tokens. It is expected that sophisticated strategies will use knowledge of the various market forces represented in the diagram to realize higher profits.
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/Screen Shot 2022-03-31 at 1.22.25 PM.png>)
 
 ### **Automated Strategies**
 
 The following diagram is essentially a state machine diagram that represents the decisions that automated strategies or bots will analyze within the Element Protocol and the respective market forces:
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/Last Graph (1).png>)
 
 ## &#x20;

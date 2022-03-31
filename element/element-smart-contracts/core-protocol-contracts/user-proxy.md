@@ -11,7 +11,7 @@ The User Proxy is a user convenience contract that consolidates the actions need
 
 ### **Glossary**
 
-* **Tranche: **The contract which locks wrapped Yearn shares and mints yield and principal tokens.
+* **Tranche:** The contract which locks wrapped Yearn shares and mints yield and principal tokens.
 
 ## 2. Contract Details
 

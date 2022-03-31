@@ -4,5 +4,5 @@ Element has developed a custom trading curve algorithm that can be deployed on [
 
 **The below-listed contracts are the custom Balancer Curve contracts of the Element Protocol:‌**
 
-* **Convergent Curve Pool: **The convergent curve pool contract is an implementation of a Balancer pool that provides quotes for trades when called by the Balancer V2 vault. It cannot be interacted with directly.
-* **Convergent Curve Pool Factory: **Deploys a convergent curve pool for a principal token underlying pair.
+* **Convergent Curve Pool:** The convergent curve pool contract is an implementation of a Balancer pool that provides quotes for trades when called by the Balancer V2 vault. It cannot be interacted with directly.
+* **Convergent Curve Pool Factory:** Deploys a convergent curve pool for a principal token underlying pair.

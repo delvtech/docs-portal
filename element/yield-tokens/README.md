@@ -9,7 +9,7 @@ The redemption value for a YT at the end of the defined term will be the average
 * The eY:yETH is under a 1-year term.
 * If the Yearn position maintains 25% APY for the entire year, eY:yETH is redeemable for 0.25 ETH.
 
-![](https://i.imgur.com/SixqVVj.jpg)
+![](<../../.gitbook/assets/TY redeem APY.png>)
 
 However, by definition, no variable yield position on the market maintains its listed yield rate (APY). The APYs constantly fluctuate. This implies that the real redeemable yield at the end of the year is unknown.
 

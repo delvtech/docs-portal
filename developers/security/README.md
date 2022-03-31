@@ -4,13 +4,13 @@ description: The Security of the Element Protocol is our highest priority.
 
 # Security
 
-## **Security Audit Reports** <a href="b93e" id="b93e"></a>
+## **Security Audit Reports** <a href="#b93e" id="b93e"></a>
 
 Our audit reports provide a highly detailed analysis on the areas of coverage and concern, and we are happy to share them with our community to help anyone better understand how the Element Protocol works.
 
 The following traditional security audits have been performed on the Element Protocol’s core contracts:
 
-### [**Runtime Verification**](https://runtimeverification.com)** Final Audit Report** <a href="b6c6" id="b6c6"></a>
+### [**Runtime Verification**](https://runtimeverification.com) **Final Audit Report** <a href="#b6c6" id="b6c6"></a>
 
 Runtime Verification Inc. is a company aimed at using runtime verification-based techniques to perform security audits on virtual machines and smart contracts on public blockchains. They are dedicated to using its dynamic software analysis approach to improve the safety, reliability, and correctness of software systems in the blockchain field. Therefore, we contracted them to do a formal audit on the Element Protocol.
 
@@ -22,7 +22,7 @@ Runtime Verification’s Audit discovered a total of nine reported bugs with imp
 
 Read the Runtime Verification final audit report [**here**](https://github.com/element-fi/elf-contracts/blob/main/audits/Runtime\_Verification\_Security\_Audit\_Report.pdf).
 
-### [**PeckShield**](https://peckshield.com)** Final Audit Report**
+### [**PeckShield**](https://peckshield.com) **Final Audit Report**
 
 PeckShield is a leading blockchain security company with the goal of elevating the security, privacy, and usability of current blockchain ecosystems by offering top-notch, industry-leading services and products (including the service of smart contract auditing).
 
