@@ -2,13 +2,15 @@
 
 ## What is providing liquidity?
 
-Providing Liquidity is the process of adding liquidity into an AMM by providing both sides of a trading pair and becoming a Liquidity Provider (LP). Element enables users to be liquidity providers for both Principal and Yield Tokens.
+Providing Liquidity is the process of adding liquidity into an AMM by providing both sides of a trading pair and becoming a Liquidity Provider (LP). Element enables users to be liquidity providers for Principal Tokens.
+
+![](<../.gitbook/assets/Screen Shot 2022-03-30 at 5.28.48 PM.png>)
 
 ## What is the incentive of providing liquidity?
 
 The incentive of liquidity providers is that it allows users to earn trading fees on their supplied assets. For users who are buying discounted assets and staking, they will be earning a volatility dampened variable yield and AMM fees for providing liquidity.&#x20;
 
-For users who are minting Principal Tokens and Yield Tokens then providing liquidity with their Principal Tokens, they will be earning variable interest yield (from holding the yield tokens) in addition to AMM fees for providing liquidity.
+For users who are minting Principal Tokens and then providing liquidity with their Principal Tokens, they will be earning variable interest yield (from holding the yield tokens) in addition to AMM fees for providing liquidity.
 
 ## How do I provide liquidity?‌
 

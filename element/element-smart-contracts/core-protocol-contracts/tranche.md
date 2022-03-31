@@ -11,9 +11,9 @@ The Tranche contract locks wrapped position shares and mints yield and principal
 
 ### **Glossary**
 
-* **Yield Bearing Asset (YBA): **An asset that increases in value, for example, Vault shares.
+* **Yield Bearing Asset (YBA):** An asset that increases in value, for example, Vault shares.
 * **Underlying token:** The token used by the yield bearing asset to generate yield. (eg: USDC for USDC yearn vault shares)
-* **Yield Token (YT): **Token representing the yield earned by the deposited wrapped yield bearing assets.
+* **Yield Token (YT):** Token representing the yield earned by the deposited wrapped yield bearing assets.
 * **Principal Token (PT):** The token representing the initial deposited value of the wrapped yield bearing assets shares.
 * **Wrapped position:** Wrapped Yield Bearning Asset.
 
