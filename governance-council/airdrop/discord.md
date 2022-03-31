@@ -14,7 +14,7 @@ This guide is for **Community contributors**. To see if you are eligible, please
 
 3. After reading the instructions and ensuring that your wallet is connected, click on **Get Started** on the bottom right-hand side.
 
-    ![](../../.gitbook/assets/guides/discord_1.jpeg|width=600px)
+    ![](../../.gitbook/assets/guides/discord_1.jpeg)
 
 4. **Click and drag** the slider in any direction until the progress bar turns green. This will generate a random Key and Secret,based on your trackpad (or mouse) movements. Once ready, click on **Download JSON**. Make sure that you save the JSON file in a secure location. You will need both your Key and Secret to check if your Discord ID was eligible.
 
