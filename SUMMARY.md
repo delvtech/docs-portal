@@ -50,14 +50,7 @@
 
 * [Council Protocol Overview](governance-council/council-protocol-overview/README.md)
   * [Voting Vaults and Delegation](governance-council/council-protocol-overview/voting-vaults.md)
-  * [Lifecycle of a Proposal](governance-council/council-protocol-overview/lifecycle-of-a-proposal/README.md)
-    * [Create a Commonwealth Poll](governance-council/council-protocol-overview/lifecycle-of-a-proposal/commonwealth-poll.md)
-    * [Create a Snapshot Poll](governance-council/council-protocol-overview/lifecycle-of-a-proposal/snapshot-poll.md)
-    * [Create a Council Proposal](governance-council/council-protocol-overview/lifecycle-of-a-proposal/council-proposal.md)
   * [Governance Steering Council (GSC)](governance-council/council-protocol-overview/governance-steering-council.md)
-* [Airdrop](governance-council/airdrop/README.md)
-  * [Guide: Discord ZK Claim Flow](governance-council/airdrop/discord.md)
-  * [Guide: GitHub ZK Claim Flow](governance-council/airdrop/github.md)
 * [Council Protocol Interface](governance-council/council-protocol-interface/README.md)
   * [Overview](governance-council/council-protocol-interface/overview.md)
   * [Proposals](governance-council/council-protocol-interface/proposals/README.md)
@@ -78,13 +71,10 @@
   * [Simple Proxy](governance-council/council-protocol-smart-contracts/simple-proxy.md)
   * [Storage](governance-council/council-protocol-smart-contracts/storage.md)
   * [History](governance-council/council-protocol-smart-contracts/history.md)
+* [Airdrop](governance-council/airdrop/README.md)
+  * [Guide: Discord ZK Claim Flow](governance-council/airdrop/discord.md)
+  * [Guide: GitHub ZK Claim Flow](governance-council/airdrop/github.md)
 * [Audits](https://github.com/element-fi/council/tree/main/audits)
-
-## Airdrop
-
-* [Airdrop Claim Flow](governance-council/airdrop/README.md)
-  * [Discord ZK Claim Flow](governance-council/airdrop/discord.md)
-  * [GitHub ZK Claim Flow](governance-council/airdrop/github.md)
 
 ## Community
 

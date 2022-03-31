@@ -14,25 +14,25 @@ This guide is for **Community contributors**. To see if you are eligible, please
 
 3. After reading the instructions and ensuring that your wallet is connected, click on **Get Started** on the bottom right-hand side.
 
-![](../../.gitbook/assets/guides/discord_1.jpeg)
+    ![](../../.gitbook/assets/guides/discord_1.jpeg)
 
 4. **Click and drag** the slider in any direction until the progress bar turns green. This will generate a random Key and Secret,based on your trackpad (or mouse) movements. Once ready, click on **Download JSON**. Make sure that you save the JSON file in a secure location. You will need both your Key and Secret to check if your Discord ID was eligible.
 
-![](../../.gitbook/assets/guides/discord_2.jpeg)
+    ![](../../.gitbook/assets/guides/discord_2.jpeg)
 
 5. After downloading the JSON file, the **Next** button will become enabled. Click **Next**.
 
-![](../../.gitbook/assets/guides/discord_3.jpeg)
+    ![](../../.gitbook/assets/guides/discord_3.jpeg)
 
 6. Once you see the message “Public ID Successfully Created,” copy the Discord Command by clicking on **Copy**. Click on **Go to Discord**.
 
-![](../../.gitbook/assets/guides/discord_4.jpeg)
+    ![](../../.gitbook/assets/guides/discord_4.jpeg)
 
 7. **Paste** the Discord Command you have copied into the Discord-Claim channel in the Element Discord server. 
 
-Make sure that you see the /submitpublicid message on the screen. This means that the bot has recognized the command. Finally, **press the enter (or return) key** on your keyboard.
+    Make sure that you see the /submitpublicid message on the screen. This means that the bot has recognized the command. Finally, **press the enter (or return) key** on your keyboard.
 
-![](../../.gitbook/assets/guides/discord_5.jpeg)
+    ![](../../.gitbook/assets/guides/discord_5.jpeg)
 
 ### What’s next?
 

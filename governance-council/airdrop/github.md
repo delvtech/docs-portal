@@ -12,25 +12,25 @@ This guide is for **Ecosystem contributors**. Ecosystem contributors are those w
 	* How to Share your New Public ID on Discord
 	* How to Check your Eligibility
 
-Once you’re ready, click the **Get Started** button on the lower right corner of the page.
+    Once you’re ready, click the **Get Started** button on the lower right corner of the page.
 
-![](../../.gitbook/assets/guides/github_1.jpeg)
+    ![](../../.gitbook/assets/guides/github_1.jpeg)
 
 3. **Click and drag** the slider in any direction until the progress bar turns green. This will generate a random Key and Secret,based on your trackpad (or mouse) movements. Once ready, click on **Download JSON**. Make sure that you save the JSON file in a secure location. You will need both your Key and Secret to check if your GitHub ID was eligible.
 
-![](../../.gitbook/assets/guides/discord_2.jpeg)
+    ![](../../.gitbook/assets/guides/discord_2.jpeg)
 
 4. After downloading the JSON file, the **Next** button will become enabled. Click **Next**.
 
-![](../../.gitbook/assets/guides/discord_3.jpeg)
+    ![](../../.gitbook/assets/guides/discord_3.jpeg)
 
 5. Your Public ID has now been created! Copy your Public ID and click on the **Go to GitHub Issue** button. This will take you to Element’s GitHub repository.
 
-![](../../.gitbook/assets/guides/github_4.jpeg)
+    ![](../../.gitbook/assets/guides/github_4.jpeg)
 
 6. **Paste** your Public ID as a comment in the GitHub Issue (GitHub Airdrop #384) and click on the **Comment** button to post it.
 
-![](../../.gitbook/assets/guides/github_5.jpeg)
+    ![](../../.gitbook/assets/guides/github_5.jpeg)
 
 7. Congratulations! You have now submitted your Public ID. You’ll now have to wait until April 6, 2022, the date when we’ll share another link for you to check your eligibility and, if eligible, claim your airdrop.
 
