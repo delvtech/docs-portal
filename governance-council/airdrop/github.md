@@ -9,7 +9,7 @@ This guide is for **Ecosystem contributors**. Ecosystem contributors are those w
 2. Make sure you read the instructions on:
 
 	* How to Generate your Key, Secret, & Public ID 
-	* How to Share your New Public ID on Discord
+	* How to Share your New Public ID on GitHub
 	* How to Check your Eligibility
 
     Once you’re ready, click the **Get Started** button on the lower right corner of the page.
