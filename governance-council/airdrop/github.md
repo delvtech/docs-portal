@@ -4,7 +4,7 @@ This guide is for **Ecosystem contributors**. Ecosystem contributors are those w
 
 ### How to claim my Github-based airdrop?
 
-1. Go to the [Github ZK Claim page](https://gov.element.fi/zk/github/) and **connect your wallet** on the top right-hand side.
+1. Go to the [Github ZK Claim page](https://gov.element.fi/zk/github/).
 
 2. Make sure you read the instructions on:
 
