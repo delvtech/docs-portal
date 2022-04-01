@@ -4,7 +4,7 @@ This guide is for **Community contributors**. To see if you are eligible, please
 
 ### How to claim my Discord-based airdrop?
 
-1. Go to the [Discord Airdrop Dashboard](https://gov.element.fi/zk/discord/) and **connect your wallet** on the top right-hand side.
+1. Go to the [Discord Airdrop Dashboard](https://gov.element.fi/zk/discord/).
 
 2. Make sure you read the instructions on:
 
