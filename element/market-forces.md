@@ -32,6 +32,6 @@ The below diagram provides an overview visualization of all the market forces af
 
 The following diagram is essentially a state machine diagram that represents the decisions that automated strategies or bots will analyze within the Element Protocol and the respective market forces:
 
-![](<../.gitbook/assets/Last Graph (1).png>)
+![](<../.gitbook/assets/Last Graph.png>)
 
 ## &#x20;

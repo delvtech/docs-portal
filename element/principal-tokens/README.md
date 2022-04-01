@@ -2,7 +2,7 @@
 
 A Principal Token (PT) offers an asset such as BTC, ETH, USDC, or DAI that is locked for a fixed term. At the end of the term, it can be redeemed for its full value.
 
-![](<../../.gitbook/assets/Redeem (4).png>)
+![](<../../.gitbook/assets/Redeem (3).png>)
 
 For example, if 10 ETH is used to purchase discounted ETH at a 10% APY for a one-year lockup, 11 eP:ETH or PTs will be issued. Upon expiry of the fixed term, one year later, the 11 eP:ETH is redeemable for 11 ETH. A fixed rate of yield was secured.
 
