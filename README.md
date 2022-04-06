@@ -16,4 +16,4 @@ Within the Element Protocol, there are 3 types of Users.
 
 ****[**Liquidity Providers:**](getting-started/providing-liquidity.md) These are users who provide liquidity into the Element AMM’s. Users require both Principal Tokens as well as the underlying asset to provide liquidity into the fixed rate AMM and will earn trading fees.
 
-![](<\_book/.gitbook/assets/photo\_2021-05-18 09.20.18.jpeg>)
+![](<.gitbook/assets/photo\_2021-05-18 09.20.18.jpeg>)

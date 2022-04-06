@@ -76,6 +76,10 @@
   * [Guide: GitHub ZK Claim Flow](governance-council/airdrop/github.md)
 * [Audits](https://github.com/element-fi/council/tree/main/audits)
 
+## ELFIVERSE
+
+* [Guide: Mint Your ELF NFT](elfiverse/guide-mint-your-elf-nft.md)
+
 ## Community
 
 * [Discord](https://discord.com/invite/8JnDyXJJWh)

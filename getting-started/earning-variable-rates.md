@@ -4,7 +4,7 @@
 
 Users are able to enter a variable rate position by **DEPOSITING** their base asset into one of Element's vaults and **MINTING** Principal and Yield Tokens. The Principal and Yield Tokens are both standard ERC-20 tokens that are tradable.&#x20;
 
-![The Principal Token is redeemable for the initial deposit amount at maturity, and the Yield Token is redeemable for the variable interest earned over the term length.](<../.gitbook/assets/Mint1 (1).jpg>)
+![The Principal Token is redeemable for the initial deposit amount at maturity, and the Yield Token is redeemable for the variable interest earned over the term length.](../.gitbook/assets/Mint1.jpg)
 
 ## How much will I earn?
 

@@ -2,7 +2,7 @@
 
 Element's Principal Tokens and Yield Tokens are tradable within the custom Balancer AMMs. A typical liquidity pool holds the principal token paired with it's underlying asset (eP:yETH and ETH). Each term period has its own liquidity pool that corresponds to the maturity date of the principal token.&#x20;
 
-![January 1, 2021 - 90 Day Term Period AMM](<../\_book/.gitbook/assets/AMM Liquidity Pool (5).jpg>)
+![January 1, 2021 - 90 Day Term Period AMM](<../.gitbook/assets/AMM Liquidity Pool (5).jpg>)
 
 ### Term Period
 
@@ -12,7 +12,7 @@ The AMM's reach maturity at the end of the set term period. Term periods vary in
 
 Users who want to provide liquidity into the AMMs can provide assets matching the term period as well as the paired asset within that liquidity pool.&#x20;
 
-![](<../\_book/.gitbook/assets/AMM Liquidity Pool (4).jpg>)
+![](<../.gitbook/assets/AMM Liquidity Pool (4).jpg>)
 
 ### Maturity
 

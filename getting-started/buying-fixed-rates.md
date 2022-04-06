@@ -8,7 +8,7 @@ To buy fixed rate interest, simply launch the Element [platform ](https://www.el
 
 Within this page, you will be given the option to select which discounted asset you would like to **buy** and start earning a fixed rate interest after making the purchase.&#x20;
 
-![](<../.gitbook/assets/Screen Shot 2022-03-30 at 4.56.43 PM (1) (1).png>)
+![](<../.gitbook/assets/Screen Shot 2022-03-30 at 4.56.43 PM (1).png>)
 
 **Fixed Rates are earned by purchasing the liquidity provider's Principal Tokens at a discount.**
 
@@ -16,7 +16,7 @@ Within this page, you will be given the option to select which discounted asset 
 
 The fixed rate **comes from** a user exiting their principal token position before their term has matured. The willing buyer of that position will purchase the principal token at a discount due to the opportunity cost of waiting out the remainder of the term duration.
 
-![](<../.gitbook/assets/Redeem (4).png>)
+![](<../.gitbook/assets/Redeem (3).png>)
 
 ## What are Principal Tokens?
 
@@ -26,7 +26,7 @@ Principal Tokens are minted and issued to depositors of the Element protocol whe
 
 Users who purchase principal tokens determine their fixed rate dependent on the discounted rate of the asset at purchase time. Buyers of principal tokens that have yet to reach maturity will be trading at a discount to its underlying represented asset. The further away from maturity, the principal token is, the higher the discount.&#x20;
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (8).png>)
 
 If a user **purchases** a 10% discounted principal token redeemable in a 12-month term, it is effectively a 10% fixed rate. Each asset has its own dedicated market of supply and demand along with the priced discounts (fixed rate APY). Note that the fixed rate APY is subject to change from time to time.&#x20;
 
@@ -40,7 +40,7 @@ You can find the matured assets under **My Portfolio**.&#x20;
 
 Assets that you currently hold are displayed at its current present value as well as the amount of time till maturity. The Fixed Rate APR is broken down into yearly, monthly, and daily.
 
-![](<../.gitbook/assets/Screen Shot 2022-03-30 at 5.12.54 PM (1).png>)
+![](<../.gitbook/assets/Screen Shot 2022-03-30 at 5.12.54 PM.png>)
 
 **Upon Maturity the Redeem button will light up and appear as so:**
 

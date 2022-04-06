@@ -48,4 +48,4 @@ Traders who want to enter and exit various fixed and variable yield rates can ea
 
 Element's principal tokens that trade at a discount create a fixed rate that allows for users to build their custom-tailored principal protected product. In short, this means at the time of purchase, the fixed rate is secured and provides users with the additional capital that can be allocated towards variable interest strategies. These type of products rollover perpetually and take on the subsequent fixed rate term when the current one matures.
 
-![](<../../\_book/.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5).png>)

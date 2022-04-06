@@ -10,11 +10,10 @@
 
 ## Architecture Overview
 
-![To learn more about the technical architecture of Council, read this blog post
-](../../.gitbook/assets/council-arch.png)
+![To learn more about the technical architecture of Council, read this blog post](../../\_book/.gitbook/assets/council-arch.png)
 
 ### Resources
 
 * Introduction to Element's Governance System [blog post](https://medium.com/element-finance/an-introduction-to-elements-governance-model-efea13d1c7ee)
-* [Github Repository ](https://github.com/element-fi/council)
-* To learn more about the technical architecture of Council, read [this](https://medium.com/element-finance/element-governance-a-technical-architecture-overview-2d0f72bd278a) blog post. \
+* [Github Repository](https://github.com/element-fi/council)
+* To learn more about the technical architecture of Council, read [this](https://medium.com/element-finance/element-governance-a-technical-architecture-overview-2d0f72bd278a) blog post. \\
