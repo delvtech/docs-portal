@@ -12,21 +12,21 @@ You don’t hold voting power if you have claimed it and delegated it to another
 
 ### How to vote
 
-1. Go to the [Element Council’s Proposals page](https://gov.element.fi/proposals/) and **connect your wallet** on the top right-hand side.
+* Go to the [Element Council’s Proposals page](https://gov.element.fi/proposals/) and **connect your wallet** on the top right-hand side.
 
-    ![](../../../.gitbook/assets/guides/voting_1.jpeg)
+![](../../../.gitbook/assets/guides/voting_1.jpeg)
 
-2. **Select** the proposal you’re interested in, from the list of proposals. Note that you can only vote on Active proposals.
+* **Select** the proposal you’re interested in, from the list of proposals. Note that you can only vote on Active proposals.
 
-    ![](../../../.gitbook/assets/guides/voting_2.jpeg)
+![](../../../.gitbook/assets/guides/voting_2.jpeg)
 
-3. You can find all the information about your selected proposal in the right side pane. Once you’ve made your decision, use the Vote button on the lower side of the pane and select one of the voting options.
+* You can find all the information about your selected proposal in the right side pane. Once you’ve made your decision, use the Vote button on the lower side of the pane and select one of the voting options.
 
-    ![](../../../.gitbook/assets/guides/voting_3.jpeg)
+![](../../../.gitbook/assets/guides/voting_3.jpeg)
 
-4. Once you’ve made your selection, click the Submit button on the lower right-hand corner of the pane to confirm your vote. This will trigger an on-chain transaction, so you will have to confirm it in your web3 wallet, and pay for any associated gas fees.
+* Once you’ve made your selection, click the Submit button on the lower right-hand corner of the pane to confirm your vote. This will trigger an on-chain transaction, so you will have to confirm it in your web3 wallet, and pay for any associated gas fees.
 
-    ![](../../../.gitbook/assets/guides/voting_4.jpeg)
+![](../../../.gitbook/assets/guides/voting_4.jpeg)
 
 ### What’s next?
 
