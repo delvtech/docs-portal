@@ -24,7 +24,7 @@ Principal Tokens are minted and issued to depositors of the Element protocol whe
 
 ## How much will I earn?
 
-Users who purchase principal tokens determine their fixed rate dependent on the discounted rate of the asset at purchase time. Buyers of principal tokens that have yet to reach maturity will be trading at a discount to its underlying represented asset. The further away from maturity, the principal token is, the higher the discount.&#x20;
+Users who purchase principal tokens determine their fixed rate dependent on the discounted rate of the asset at purchase time. Buyers of principal tokens that have yet to reach maturity will be trading at a discount to its underlying represented asset. The further away from maturity the principal token is, the higher the discount.&#x20;
 
 ![](<../.gitbook/assets/image (8).png>)
 
