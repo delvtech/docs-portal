@@ -1,8 +1,8 @@
 ---
 description: >-
-  As mentioned in the Proposal Types section, there are two proposal processes
-  for the Element Governance Framework: 1-Protocol (Executable) Proposals and
-  2-DAO (Social) Proposals.
+  As mentioned in the Proposals & Proposal Types section, there are two proposal
+  processes for the Element Governance Framework: 1)Protocol (Executable)
+  Proposals and 2) DAO (Social) Proposals.
 ---
 
 # The Proposal Process
