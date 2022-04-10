@@ -24,15 +24,23 @@ This guide is for **Ecosystem contributors**. Ecosystem contributors are those w
 
 ![](../../.gitbook/assets/guides/discord_3.jpeg)
 
-* Your Public ID has now been created! Copy your Public ID and click on the **Go to GitHub Issue** button. This will take you to Element’s GitHub repository.
+* Your Public ID has now been created! Copy your Public ID and click on the **Go to GitHub Gist** button. This will take you to Element’s GitHub repository.
 
 ![](../../.gitbook/assets/guides/github_4.jpeg)
 
-* **Paste** your Public ID as a comment in the GitHub Issue (GitHub Airdrop #384) and click on the **Comment** button to post it.
+* **Fork** this Github Gist using the **Fork** button on the upper right corner of the page.
 
-![](../../.gitbook/assets/guides/github_5.jpeg)
+![](../../.gitbook/assets/guides/github_5.png)
 
-* Congratulations! You have now submitted your Public ID. You’ll now have to wait until April 6, 2022, the date when we’ll share another link for you to check your eligibility and, if eligible, claim your airdrop.
+* **Edit** the newly forked gist by clicking the **Edit** button on the top section of the page.
+
+![](../../.gitbook/assets/guides/github_6.png)
+
+* Erase all the text and paste the Public ID you generated and copied in the previous steps and click the **Update public gist** button below the lower right corner of the gist content. You can always your Public ID again in the JSON file you downloaded in the previous steps.
+
+![](../../.gitbook/assets/guides/github_7.png)
+
+* Congratulations! You have now submitted your Public ID. You’ll now have to wait until April 11th, 2022, the date when we’ll share another link for you to check your eligibility and, if eligible, claim your airdrop.
 
 ### What’s next?
 
