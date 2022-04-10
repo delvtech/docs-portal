@@ -42,7 +42,9 @@ This guide is for **Ecosystem contributors**. Ecosystem contributors are those w
 
 ![](../../.gitbook/assets/guides/github_7.png)
 
-* Congratulations! You have now submitted your Public ID. You’ll now have to wait until April 11th, 2022, the date when we’ll share another link for you to check your eligibility and, if eligible, claim your airdrop.
+* Congratulations! You have now submitted your Public ID. Public IDs will be collected until April 11, 2022, after which we'll provide a new link to check if your GitHub ID was eligible using your key and secret. Keep them private and don't lose them! The new link will be shared here, on Twitter, and in our Discord server. If you miss out on the first collection process, don't worry, we'll do additional collection periods.
+
+    A reminder, the ZK claim process lets you maintain your privacy. Your Ethereum address cannot be doxxed.
 
 ### What’s next?
 
