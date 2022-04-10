@@ -1,6 +1,6 @@
 ## GitHub ZK Claim Flow
 
-This guide is for **Ecosystem contributors**. Ecosystem contributors are those who have worked on building the public goods infrastructures that power the entire ecosystem of dapps and protocols on the Ethereum blockchain. To check if you are eligible, please review our distribution post.
+This guide is for **Ecosystem contributors**. Ecosystem contributors are those who have worked on building the public goods infrastructures that power the entire ecosystem of dapps and protocols on the Ethereum blockchain. To find out if you're eligible, please check if you've contributed to any of the [eligible repositories](https://gist.github.com/mihai6/6f5e7d5c7d28c39f122a1d76719e0d0c) before March 1st, 2022.
 
 ### How to claim my Github-based airdrop?
 
