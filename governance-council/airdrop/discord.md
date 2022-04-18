@@ -33,7 +33,9 @@ This guide is for **Community contributors**. To see if you are eligible, please
 
 ## What’s next?
 
-On April 11th, 2022, we’ll announce the link where you can check your eligibility and claim your voting power.
+If you were eligible for the airdrop and submitted your public ID during our first collection period, which closed on April 11th, 2022, you can claim your ELFI in our [ZK Claim site](https://gov.element.fi/zkclaim).
+
+If you missed the first public ID collection period, don't panic! We'll hold more collection periods down the line.
 
 Once you’ve claimed your voting power, it can be used by your delegate (or yourself, in case of self-delegation) to vote on proposals.
 
