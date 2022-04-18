@@ -48,7 +48,9 @@ This guide is for **Ecosystem contributors**. Ecosystem contributors are those w
 
 ### What’s next?
 
-Wait until April 11th, 2022 and check your eligibility for the airdrop. If eligible, you’ll be led through a Claim process, very similar to the [Airdrop Claim Flow](https://docs.element.fi/governance-council/airdrop).
+If you were eligible for the airdrop and submitted your public ID during our first collection period, which closed on April 11th, 2022, you can claim your ELFI in our [ZK Claim site](https://gov.element.fi/zkclaim).
+
+If you missed the first public ID collection period, don't panic! We'll hold more collection periods down the line.
 
 Now that you’ve claimed your voting power, it can be used by your delegate (or yourself, in case of self-delegation) to vote on proposals. 
 
