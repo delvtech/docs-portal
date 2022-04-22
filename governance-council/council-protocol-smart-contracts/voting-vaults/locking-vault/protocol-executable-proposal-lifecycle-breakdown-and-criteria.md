@@ -2,7 +2,7 @@
 
 ## Protocol (Executable) Proposal Lifecycle Breakdown & Criteria
 
-![](../../../../../.gitbook/assets/FirstCycle.png)
+![](../../../../.gitbook/assets/FirstCycle.png)
 
 ### **Official Status Lifecycle for a Protocol (Executable) Proposal**
 
@@ -11,8 +11,6 @@
 ### **Full Lifecycle For A Protocol (Executable) Proposal (including review periods)**
 
 \[Idea] ➡️ \[Draft] ➡️ \[Proposed] ➡️ \[Review] ➡️ \[Off-chain Poll] ➡️ \[Review] ➡️ \[On-chain Vote] ➡️ \[Accepted/Rejected] ➡️ \[Execution]
-
-
 
 ### **Idea**
 

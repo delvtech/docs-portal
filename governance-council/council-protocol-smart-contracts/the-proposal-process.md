@@ -1,8 +1,8 @@
 ---
 description: >-
-  As mentioned in the Proposals & Proposal Types section, there are two proposal
-  processes for the Element Governance Framework: 1)Protocol (Executable)
-  Proposals and 2) DAO (Social) Proposals.
+  As mentioned in the Proposal Types section, there are two proposal processes
+  for the Element Governance Framework: 1-Protocol (Executable) Proposals and
+  2-DAO (Social) Proposals.
 ---
 
 # The Proposal Process
@@ -18,7 +18,7 @@ description: >-
     2. [Protocol (Executable) Proposals](https://forum.element.fi/discussions/4.%20Protocol%20\(Executable\)%20Proposals)\
 
 
-    Templates for both types of proposals are pinned at the top of the forum Topic or can be found on the documentation portal here.\
+    Templates for both types of proposals are pinned at the top of the forum Topic.\
 
 3. Once it has been posted as a Draft, all questions and comments should be addressed and taken into consideration, to further improve the proposal before moving to the next stage. If they are ignored, it is less likely that the proposal will pass the subsequent off-chain poll on Snapshot.\
 
