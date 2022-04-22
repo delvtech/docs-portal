@@ -2,7 +2,7 @@
 
 * **Contract Name:** VestingVault.sol
 * **Type/Category:** Voting Vault/Governance
-* **Contract Source:**[https://github.com/element-fi/council/blob/main/contracts/vaults/VestingVault.sol](https://github.com/element-fi/council/blob/main/contracts/vaults/VestingVault.sol)
+* **Contract Source:** [https://github.com/element-fi/council/blob/main/contracts/vaults/VestingVault.sol](https://github.com/element-fi/council/blob/main/contracts/vaults/VestingVault.sol)
 
 ## **1. Introduction (Summary)**
 

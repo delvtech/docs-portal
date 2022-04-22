@@ -1,26 +1,26 @@
 # Locking Vault
 
 * **Contract Name:** LockingVault.sol
-* **Type/Category:** Voting Vault/Governance&#x20;
+* **Type/Category:** Voting Vault/Governance
 * **Contract Source:** https://github.com/element-fi/council/blob/main/contracts/vaults/LockingVault.sol
 
 ## **1. Introduction (Summary)**
 
 The Locking vault is a contract that allows the DAO to allocate votes to the token holders. It works by having the holders of the token deposit them into the Locking Vault. After votes have been allocated to users, they can then delegate votes to other addresses to vote on their behalf. To use their tokens in other contexts, the users must withdraw them from the locking vault.
 
-## **2. **Contract Details
+## \*\*2. \*\*Contract Details
 
-#### Key Functionalities:&#x20;
+#### Key Functionalities:
 
-* Users can deposit into the locking vault and then either be allocated votes or have their votes be delegated to another address.&#x20;
-* Users can change which address their votes are delegated to.&#x20;
-* Users can withdraw their tokens to move them back into their wallets.&#x20;
-* The core voting contract can query the LockingVault to check the historical voting power of users in it.&#x20;
+* Users can deposit into the locking vault and then either be allocated votes or have their votes be delegated to another address.
+* Users can change which address their votes are delegated to.
+* Users can withdraw their tokens to move them back into their wallets.
+* The core voting contract can query the LockingVault to check the historical voting power of users in it.
 
-#### Storage Layout:&#x20;
+#### Storage Layout:
 
-* A system of state which tracks the historical power of addresses using the logic of the History.sol library.&#x20;
-* A mapping that tracks a user's deposited amount and who they have delegated to.&#x20;
+* A system of state which tracks the historical power of addresses using the logic of the History.sol library.
+* A mapping that tracks a user's deposited amount and who they have delegated to.
 * Configuration parameters such as the token used and how much voting power history to retain.
 
 ## 3. Key Mechanisms & Concepts
@@ -29,12 +29,12 @@ The Council DAO framework can allocate votes to multiple sources but cannot empl
 
 ## 4. Gotchas (Potential source of user error)
 
-* A user can fund another user's account and, on deposit, select the first delegation address. The 'firstDelegation' field in the call after the first call is ignored.&#x20;
-* If a malicious actor deposits to another user's address before that user deposits, then that malicious actor can select the delegation for the user. If the user deposits, they should confirm they have not been front run and, if they have, they must change delegation.&#x20;
+* A user can fund another user's account and, on deposit, select the first delegation address. The 'firstDelegation' field in the call after the first call is ignored.
+* If a malicious actor deposits to another user's address before that user deposits, then that malicious actor can select the delegation for the user. If the user deposits, they should confirm they have not been front run and, if they have, they must change delegation.
 * Vote power queries will revert for users who have never been deposited or delegated to.
 
 ## 5. Failure Modes (Bounds on Operating Conditions & External Risk Factors)
 
-* The Locking Vault contract is intended to be used as the logic contract for an upgradable proxy, and it is recommended that it be only used in this context.&#x20;
-* Since the Locking Vault is upgradable, its funds have the same risk profile as the governance system as a whole.&#x20;
+* The Locking Vault contract is intended to be used as the logic contract for an upgradable proxy, and it is recommended that it be only used in this context.
+* Since the Locking Vault is upgradable, its funds have the same risk profile as the governance system as a whole.
 * In the case of a bug, the governance system should upgrade the locking proxy to protect user funds. However, because the locking vault is a primary source of funds, certain critical bugs may compromise its ability to do so.

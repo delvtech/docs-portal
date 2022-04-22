@@ -2,7 +2,7 @@
 
 ## DAO (Social) Proposal Lifecycle Breakdown & Criteria
 
-![](../../../.gitbook/assets/SecondCycle.png)
+![](../../../../.gitbook/assets/SecondCycle.png)
 
 ### **Official Status Lifecycle for a DAO (Social) Proposal**
 

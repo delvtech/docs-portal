@@ -1,7 +1,5 @@
 # Spender
 
-
-
 * **Contract Name:** Spender.sol
 * **Type/Category:** Treasury/Governance
 * **Contract Source:**[https://github.com/element-fi/council/blob/main/contracts/features/Spender.sol](https://github.com/element-fi/council/blob/main/contracts/features/Spender.sol)

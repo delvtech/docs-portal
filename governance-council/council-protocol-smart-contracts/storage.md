@@ -10,7 +10,7 @@ The Storage library is a utility library designed to be used with the simple pro
 
 ## **2. Contract Details**
 
-There is a set of functions that allow the reading and setting of variables for every type of contract, indexed by their names.  The name and type are hashed together to produce a unique storage location and then assembly is used to set the location of a returned storage structure. For low-level types \[address, uintX, bytesX] assembly does not have access to the slot, and custom structs \[Addresses, UintX, BytesX] are returned instead. The library also contains custom structs for commonly used packing pairs \[(uint128, uint128), (uint96, address)]. As a library, it does not have any storage itself, and only contains the ability to help other contracts layout their storage.
+There is a set of functions that allow the reading and setting of variables for every type of contract, indexed by their names. The name and type are hashed together to produce a unique storage location and then assembly is used to set the location of a returned storage structure. For low-level types \[address, uintX, bytesX] assembly does not have access to the slot, and custom structs \[Addresses, UintX, BytesX] are returned instead. The library also contains custom structs for commonly used packing pairs \[(uint128, uint128), (uint96, address)]. As a library, it does not have any storage itself, and only contains the ability to help other contracts layout their storage.
 
 ## **3. Key Mechanisms & Concepts**
 

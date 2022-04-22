@@ -16,12 +16,12 @@ Please note that 100% of one’s voting power must be delegated to a single addr
   * Assign your voting power to yourself (self-delegate)
   * Enter a valid wallet address to which to delegate your votes
 
-![](../../../../.gitbook/assets/guides/delegating\_1.jpeg)
+![](../../../.gitbook/assets/guides/delegating\_1.jpeg)
 
 * After choosing your Delegate, you'll be asked to review the amount of voting power to claim and the Delegate's address to which you've assigned voting power. Note that this will prompt you with a blockchain transaction which will entail gas fees.
 * After confirming your transaction, you’ll see a confirmation of your delegation. Please note that you can delegate your voting power to a different address at any time, you’re never stuck with your delegate selection.
 
-![](../../../../.gitbook/assets/guides/delegating\_2.jpeg)
+![](../../../.gitbook/assets/guides/delegating\_2.jpeg)
 
 ## What’s next?
 
