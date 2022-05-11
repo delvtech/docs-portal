@@ -91,7 +91,7 @@
   * [Guide: Discord ZK Claim Flow](governance-council/airdrop/discord.md)
   * [Deployed Contracts](governance-council/airdrop/deployed-contracts.md)
   * [History](governance-council/council-protocol-smart-contracts/history.md)
-  * [Guide: GitHub ZK Claim Flow](governance-council/airdrop/github.md)
+  <!-- * [Guide: GitHub ZK Claim Flow](governance-council/airdrop/github.md) -->
 * [Glossary (Governance)](governance-council/glossary-governance.md)
 * [Audits](https://github.com/element-fi/council/tree/main/audits)
 
