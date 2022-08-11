@@ -32,7 +32,7 @@ For example, users may collectively decide to actively support both 3 and 6-mont
 
 ## How do I exit my Term?‌
 
-For a user to exit their Term, they may opt to sell their issue Principal and Yield Tokens on the secondary market. The liquid secondary market allows users to enter and exit their term positions at any time. Additionally a user may exit their term by redeeming the Principal or Yield Tokens at maturity.
+For a user to exit their Term, they may opt to sell their issued Principal Tokens on the secondary market. The liquid secondary market allows users to enter and exit their term positions at any time. Additionally a user may exit their term by redeeming the Principal or Yield Tokens at maturity.
 
 ## Where does the variable yield come from?
 
