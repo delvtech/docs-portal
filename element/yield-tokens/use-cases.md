@@ -10,10 +10,6 @@ description: Use cases for Element's Yield Tokens (YTs)
 
 If a user would like to take on a position that gives them full exposure to the performance of the variable interest rate at the cost of their asset, they can do so by purchasing Yield Tokens.
 
-#### Earn Trading Fees on Interest Trading
-
-Users who are looking to capitalize on the trading fees of these Yield Tokens can purchase or mint these Yield Tokens to provide liquidity for users to enter/exit these positions.
-
 
 
 ## For Traders
