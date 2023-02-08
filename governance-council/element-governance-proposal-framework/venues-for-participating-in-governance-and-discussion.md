@@ -6,7 +6,7 @@ description: >-
 
 # Venues For Participating in Governance & Discussion
 
-### [**Commonwealth Governance Forum**](https://forum.element.fi)&#x20;
+### [**Commonwealth Governance Forum**](https://forum.element.fi/)&#x20;
 
 The best way to get yourself up to date with the current state of governance is to join the community discussions on the forum. The forum will be the go-to place for submitting proposals, discussing governance proposals, DAO discussions, voting on both off-chain and on-chain proposals, and much more.
 
@@ -14,7 +14,7 @@ The best way to get yourself up to date with the current state of governance is 
 
 Snapshot is a simple voting interface that allows users to signal sentiment on proposals (directly) off-chain.
 
-### [**Element Governance Dashboard**](https://gov.element.fi)
+### [**Element Governance Dashboard**](https://gov.element.fi/)
 
 View your specific Element governance dashboard, review information on proposals, delegate your voting power, and participate in on-chain voting on various proposals submitted by the community.
 

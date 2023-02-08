@@ -6,7 +6,7 @@
 
 ## 1. Introduction (Summary)
 
-The Convergent Curve Pool (CCP) is an implementation of an automated market maker (AMM) algorithm that allows two tokens that converge in price to be market-made more efficiently than standard options. Standard market makers either expect prices to change frequently and unpredictably as in [Uniswap](http://uniswap.org) or [Balancer's](http://balancer.finance) weighted pool, or they expect the prices to not change over time as in [Curve](http://curve.finance). The CCP market maker works for assets that approach the same price over time and is mathematically in between the current options. The code is an implementation of the Yield space [paper](https://yield.is/YieldSpace.pdf) with some additional modifications and is designed to be integrated with Balancer V2.
+The Convergent Curve Pool (CCP) is an implementation of an automated market maker (AMM) algorithm that allows two tokens that converge in price to be market-made more efficiently than standard options. Standard market makers either expect prices to change frequently and unpredictably as in [Uniswap](http://uniswap.org/) or [Balancer's](http://balancer.finance/) weighted pool, or they expect the prices to not change over time as in [Curve](http://curve.finance/). The CCP market maker works for assets that approach the same price over time and is mathematically in between the current options. The code is an implementation of the Yield space [paper](https://yield.is/YieldSpace.pdf) with some additional modifications and is designed to be integrated with Balancer V2.
 
 ![](https://i.imgur.com/ZWvaimk.png)
 

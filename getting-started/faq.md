@@ -14,7 +14,7 @@ First, you will need an ERC-20 Ethereum wallet, some ETH to pay for transaction 
 
 ## How does Element work?
 
-Element Finance enables deposits for users who want to take a variable interest position on a specific asset. The current underlying variable interest strategies are integrated from [Yearn](https://yearn.finance) strategies. When the user makes a deposit, they may choose from a variety of different lockup terms for their assets. After a user chooses a Term Period, a Principal Token and a Yield Token are minted by the protocol and issued to the user which is redeemable at the chosen Term Period.
+Element Finance enables deposits for users who want to take a variable interest position on a specific asset. The current underlying variable interest strategies are integrated from [Yearn](https://yearn.finance/) strategies. When the user makes a deposit, they may choose from a variety of different lockup terms for their assets. After a user chooses a Term Period, a Principal Token and a Yield Token are minted by the protocol and issued to the user which is redeemable at the chosen Term Period.
 
 ## How is Element useful?
 

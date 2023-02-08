@@ -6,9 +6,9 @@ This guide is for **Community contributors**. To see if you are eligible, please
 
 * Go to the [Discord Airdrop Dashboard](https://gov.element.fi/zk/discord/).
 * Make sure you read the instructions on:
-    * How to Generate your Key, Secret, & Public ID
-    * How to Share your New Public ID on Discord
-    * How to Check your Eligibility
+  * How to Generate your Key, Secret, & Public ID
+  * How to Share your New Public ID on Discord
+  * How to Check your Eligibility
 * After reading the instructions, click on **Get Started** on the bottom right-hand side.
 
 ![](<../../.gitbook/assets/Screen Shot 2022-04-01 at 08.30.42.png>)
@@ -25,7 +25,7 @@ This guide is for **Community contributors**. To see if you are eligible, please
 
 ![](../../.gitbook/assets/guides/discord\_4.jpeg)
 
-* **Paste** the Discord Command you have copied into the Discord-Claim channel in the Element Discord server.
+*   **Paste** the Discord Command you have copied into the Discord-Claim channel in the Element Discord server.
 
     Make sure that you see the /submitpublicid message on the screen. This means that the bot has recognized the command. Finally, **press the enter (or return) key** on your keyboard.
 
@@ -34,8 +34,6 @@ This guide is for **Community contributors**. To see if you are eligible, please
 ## What’s next?
 
 If you were eligible for the airdrop and submitted your public ID during our first collection period, which closed on April 11th, 2022, you can claim your ELFI in our [ZK Claim site](https://gov.element.fi/zkclaim).
-
-If you missed the first public ID collection period, don't panic! We'll hold more collection periods down the line.
 
 Once you’ve claimed your voting power, it can be used by your delegate (or yourself, in case of self-delegation) to vote on proposals.
 

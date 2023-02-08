@@ -6,7 +6,7 @@ description: Definitions for commonly-used terms accross Element's Council gover
 
 ### Basic Concepts
 
-**ELFI:** The governance token for the Element Protocol. Each ELFI token allows the owner to delegate 1 unit of Voting Power to any address, including their own address (self-delegation). You can see the amount of ELFI you own in the [governance dashboard](https://gov.element.fi).
+**ELFI:** The governance token for the Element Protocol. Each ELFI token allows the owner to delegate 1 unit of Voting Power to any address, including their own address (self-delegation). You can see the amount of ELFI you own in the [governance dashboard](https://gov.element.fi/).
 
 **Voting Power:** The basic unit of governance power used for voting on proposals, which determines whether they pass or fail. ELFI holders own Voting Power, which they can then delegate for it to be usable in governance. You can see the amount of Voting Power delegated to you in the [governance dashboard](https://gov.element.fi).
 

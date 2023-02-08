@@ -43,7 +43,7 @@
 
 ### **On-chain Vote**
 
-* The **On-chain Vote** status is a formal status on the Element Commonwealth forums where proposals can be voted on directly on the official Element governance [dashboard](https://gov.element.fi).
+* The **On-chain Vote** status is a formal status on the Element Commonwealth forums where proposals can be voted on directly on the official Element governance [dashboard](https://gov.element.fi/).
 
 ### **Accepted/Rejected**
 

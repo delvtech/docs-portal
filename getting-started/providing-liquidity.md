@@ -18,7 +18,7 @@ For users who are minting Principal Tokens and then providing liquidity with the
 
 ## What is an AMM?
 
-AMM stands for an automated market maker. AMMs allow users to supply liquidity towards a trading pair to earn passive income in the form of trading fees, or exchange between various paired assets. The AMM that Element uses is a decentralized AMM called [**Balancer**](https://balancer.finance) and has been optimized to handle Element's principal tokens.&#x20;
+AMM stands for an automated market maker. AMMs allow users to supply liquidity towards a trading pair to earn passive income in the form of trading fees, or exchange between various paired assets. The AMM that Element uses is a decentralized AMM called [**Balancer**](https://balancer.finance/) and has been optimized to handle Element's principal tokens.&#x20;
 
 ## What is Slippage?
 

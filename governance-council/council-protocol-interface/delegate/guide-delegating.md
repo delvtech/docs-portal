@@ -10,7 +10,7 @@ Please note that 100% of one’s voting power must be delegated to a single addr
 
 ## How to delegate your Voting Power
 
-* Go to the [Element's Council Dashboard](https://gov.element.fi) and **connect your wallet** on the top right-hand side.
+* Go to the [Element's Council Dashboard](https://gov.element.fi/) and **connect your wallet** on the top right-hand side.
 * Click on Delegate, in the left sidebar menu. You will be able to choose one of three options:
   * Select a delegate from the list of ‘Featured Delegates’
   * Assign your voting power to yourself (self-delegate)
