@@ -18,7 +18,7 @@
 
 ### **Draft**
 
-* The **Draft** status is a formal status on the Commonwealth forums, where a proposal has been created using the provided template in hopes of getting support and feedback from the community. Based on community feedback, the author of the proposal should make updates and edits to the proposal. The goal of the`Draft` proposal status is to get enough feedback and support to achieve soft consensus in order to confidently proceed with a formal proceed without it getting immediately shot down. The draft proposal status also helps avoid having “garbage proposals” make it through to Off-chain polls and helps eliminate voting fatigue that the community would face without this stage.
+* The **Draft** status is a formal status on the Commonwealth forums, where a proposal has been created using the provided [template](https://forum.element.fi/discussion/4293-protocol-executable-proposal-template) in hopes of getting support and feedback from the community. Based on community feedback, the author of the proposal should make updates and edits to the proposal. The goal of the`Draft` proposal status is to get enough feedback and support to achieve soft consensus in order to confidently proceed with a formal proceed without it getting immediately shot down. The draft proposal status also helps avoid having “garbage proposals” make it through to Off-chain polls and helps eliminate voting fatigue that the community would face without this stage.
 * Once posted on the governance forum as a **Draft**, all questions and comments should be addressed and taken into consideration, to further improve the proposal before moving to the next stage. If they are ignored, it is less likely for the proposal to pass the Off-chain Poll.
 
 ### **Proposed**
