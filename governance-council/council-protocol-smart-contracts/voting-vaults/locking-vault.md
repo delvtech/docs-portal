@@ -8,7 +8,7 @@
 
 The Locking vault is a contract that allows the DAO to allocate votes to the token holders. It works by having the holders of the token deposit them into the Locking Vault. After votes have been allocated to users, they can then delegate votes to other addresses to vote on their behalf. To use their tokens in other contexts, the users must withdraw them from the locking vault.
 
-## \*\*2. \*\*Contract Details
+## 2. Contract Details
 
 #### Key Functionalities:
 
