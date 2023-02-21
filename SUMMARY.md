@@ -41,7 +41,6 @@
 * [Deployment Guide](https://github.com/element-fi/elf-deploy)
 * [Security](developers/security/README.md)
   * [Immunefi Program](https://immunefi.com/bounty/elementfinance/)
-  * [Admin Keys](developers/security/admin-keys.md)
   * [Oracles](developers/security/oracles.md)
 * [Github](https://github.com/element-fi)
 * [Construction Paper](https://paper.element.fi)
@@ -91,7 +90,6 @@
   * [Guide: Discord ZK Claim Flow](governance-council/airdrop/discord.md)
   * [Deployed Contracts](governance-council/airdrop/deployed-contracts.md)
   * [History](governance-council/council-protocol-smart-contracts/history.md)
-  <!-- * [Guide: GitHub ZK Claim Flow](governance-council/airdrop/github.md) -->
 * [Glossary (Governance)](governance-council/glossary-governance.md)
 * [Audits](https://github.com/element-fi/council/tree/main/audits)
 
