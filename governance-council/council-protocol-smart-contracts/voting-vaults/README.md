@@ -24,10 +24,10 @@ In terms of future voting vaults, once the process for establishing logic for co
 
 **Some of the possible future voting vaults consist of:**
 
-* \*\*Compound/Aave Vault\*\*— use tokens as collateral and/or earn interest while keeping voting power.
-* \*\*LP Vault\*\*— get voting power while providing liquidity.
-* \*\*Ouroboros Vault\*\*— deposit Element principal tokens to get more votes than your current balance.
-* \*\*Identity Verified Vault\*\*— verify your digital identity as a unique person to get voting power.
-* \*\*L2-L1 Synthesis Vault\*\*— L2 posts balance tree hashes and L1 votes using the Merkel balance proof of L2.
+* \*\*Compound/Aave Vault\*\* — use tokens as collateral and/or earn interest while keeping voting power.
+* \*\*LP Vault\*\* — get voting power while providing liquidity.
+* \*\*Ouroboros Vault\*\* — deposit Element principal tokens to get more votes than your current balance.
+* \*\*Identity Verified Vault\*\* — verify your digital identity as a unique person to get voting power.
+* \*\*L2-L1 Synthesis Vault\*\* — L2 posts balance tree hashes and L1 votes using the Merkel balance proof of L2.
 
 If you have any other creative ideas for future voting vaults, let us know in [Discord](https://discord.com/invite/8JnDyXJJWh)!
