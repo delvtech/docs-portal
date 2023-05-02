@@ -3,7 +3,7 @@
 * **Contract Name:** Tranche
 * **Type/Category:** Core
 * **Associated System Diagram**: n/a
-* **Contract Source:** [https://github.com/element-fi/elf-contracts/blob/main/contracts/Tranche.sol](https://github.com/element-fi/elf-contracts/blob/main/contracts/Tranche.sol)
+* **Contract Source:** [https://github.com/delv-tech/elf-contracts/blob/main/contracts/Tranche.sol](https://github.com/delv-tech/elf-contracts/blob/main/contracts/Tranche.sol)
 
 ## 1. Overview
 

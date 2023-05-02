@@ -2,7 +2,7 @@
 
 * **Contract Name:** ConvergentCurvePool
 * **Type/Category:** Automated Market Maker
-* **Contract Source:** [https://github.com/element-fi/elf-contracts/blob/main/contracts/ConvergentCurvePool.sol](https://github.com/element-fi/elf-contracts/blob/main/contracts/ConvergentCurvePool.sol)
+* **Contract Source:** [https://github.com/delv-tech/elf-contracts/blob/main/contracts/ConvergentCurvePool.sol](https://github.com/delv-tech/elf-contracts/blob/main/contracts/ConvergentCurvePool.sol)
 
 ## 1. Introduction (Summary)
 

@@ -2,7 +2,7 @@
 
 This guide is for **Ecosystem contributors**. Ecosystem contributors are those who have worked on building the public goods infrastructures that power the entire ecosystem of dapps and protocols on the Ethereum blockchain. To find out if you're eligible, please check if you've contributed to any of the [eligible repositories](https://gist.github.com/mihai6/6f5e7d5c7d28c39f122a1d76719e0d0c) before March 1st, 2022.
 
-* **Note**: If you already followed our ZK Claim Flow and submitted a comment to our GitHub [Issue #384](https://github.com/element-fi/elf-council-frontend/issues/384) or [Issue #724](https://github.com/element-fi/elf-council-frontend/issues/724), then you don't need to follow this guide or do anything else. Your submission is already secured, see you on April 11th! Otherwise, please read on.
+* **Note**: If you already followed our ZK Claim Flow and submitted a comment to our GitHub [Issue #384](https://github.com/delv-tech/elf-council-frontend/issues/384) or [Issue #724](https://github.com/delv-tech/elf-council-frontend/issues/724), then you don't need to follow this guide or do anything else. Your submission is already secured, see you on April 11th! Otherwise, please read on.
 
 ### How to claim my Github-based airdrop?
 
