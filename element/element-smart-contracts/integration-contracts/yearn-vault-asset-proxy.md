@@ -3,7 +3,7 @@
 * **Contract Name:** YVaultAssetProxy
 * **Type/Category:** System/Integration
 * **Associated System Diagram**: n/a
-* **Contract Source:** [https://github.com/element-fi/elf-contracts/blob/main/contracts/YVaultAssetProxy.sol](https://github.com/element-fi/elf-contracts/blob/main/contracts/YVaultAssetProxy.sol)
+* **Contract Source:** [https://github.com/delv-tech/elf-contracts/blob/main/contracts/YVaultAssetProxy.sol](https://github.com/delv-tech/elf-contracts/blob/main/contracts/YVaultAssetProxy.sol)
 
 ## 1. Overview
 

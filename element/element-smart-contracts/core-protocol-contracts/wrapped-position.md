@@ -3,7 +3,7 @@
 * **Contract Name:** WrappedPosition
 * **Type/Category:** Core
 * **Associated System Diagram**: n/a
-* **Contract Source:** [https://github.com/element-fi/elf-contracts/blob/main/contracts/WrappedPosition.sol](https://github.com/element-fi/elf-contracts/blob/main/contracts/WrappedPosition.sol)
+* **Contract Source:** [https://github.com/delv-tech/elf-contracts/blob/main/contracts/WrappedPosition.sol](https://github.com/delv-tech/elf-contracts/blob/main/contracts/WrappedPosition.sol)
 
 ## 1. Overview
 

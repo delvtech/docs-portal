@@ -15,5 +15,5 @@
 ### Resources
 
 * Introduction to Element's Governance System [blog post](https://medium.com/element-finance/an-introduction-to-elements-governance-model-efea13d1c7ee)
-* [Github Repository](https://github.com/element-fi/council)
+* [Github Repository](https://github.com/delv-tech/council)
 * To learn more about the technical architecture of Council, read [this](https://medium.com/element-finance/element-governance-a-technical-architecture-overview-2d0f72bd278a) blog post. \\

@@ -2,7 +2,7 @@
 
 * **Contract Name:** OptimisticRewards.sol
 * **Type/Category:** Rewards/Governance
-* **Contract Source:**[https://github.com/element-fi/council/blob/main/contracts/vaults/OptimisticRewards.sol](https://github.com/element-fi/council/blob/main/contracts/vaults/OptimisticRewards.sol)
+* **Contract Source:**[https://github.com/delv-tech/council/blob/main/contracts/vaults/OptimisticRewards.sol](https://github.com/delv-tech/council/blob/main/contracts/vaults/OptimisticRewards.sol)
 
 ## **1. Introduction (Summary)**
 

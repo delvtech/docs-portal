@@ -20,7 +20,7 @@ Runtime Verification’s Audit discovered a total of nine reported bugs with imp
 
 ![](https://miro.medium.com/max/1680/1\*lJ\_mc0DwSm4MU6W-qbE2Tg.png)
 
-Read the Runtime Verification final audit report [**here**](https://github.com/element-fi/elf-contracts/blob/main/audits/Runtime\_Verification\_Security\_Audit\_Report.pdf).
+Read the Runtime Verification final audit report [**here**](https://github.com/delv-tech/elf-contracts/blob/main/audits/Runtime\_Verification\_Security\_Audit\_Report.pdf).
 
 ### [**PeckShield**](https://peckshield.com/) **Final Audit Report**
 
@@ -32,7 +32,7 @@ PeckShield’s Audit discovered 1 medium-severity vulnerability, 2 low-severity 
 
 ![](https://miro.medium.com/max/1676/1\*viXDXjhwprAFamD-n1kzLw.png)
 
-Read the PeckShield final audit report [**here**](https://github.com/element-fi/elf-contracts/blob/main/audits/PeckShield-Audit-Report.pdf)**.**
+Read the PeckShield final audit report [**here**](https://github.com/delv-tech/elf-contracts/blob/main/audits/PeckShield-Audit-Report.pdf)**.**
 
 ## **Summary**
 

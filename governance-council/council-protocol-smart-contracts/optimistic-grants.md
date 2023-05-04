@@ -2,7 +2,7 @@
 
 * **Contract Name: OptimisticGrants.sol**
 * **Type/Category:** Grants/Governance
-* **Contract Source:**[https://github.com/element-fi/council/blob/main/contracts/features/OptimisticGrants.sol](https://github.com/element-fi/council/blob/main/contracts/features/OptimisticGrants.sol)
+* **Contract Source:**[https://github.com/delv-tech/council/blob/main/contracts/features/OptimisticGrants.sol](https://github.com/delv-tech/council/blob/main/contracts/features/OptimisticGrants.sol)
 
 ## **1. Introduction (Summary)**
 
