@@ -37,12 +37,12 @@
 ## Developers
 
 * [Public Release Changelog](developers/public-releases.md)
-* [Element SDK](https://github.com/delv-tech/elf-sdk)
-* [Deployment Guide](https://github.com/delv-tech/elf-deploy)
+* [Element SDK](https://github.com/delvtech/elf-sdk)
+* [Deployment Guide](https://github.com/delvtech/elf-deploy)
 * [Security](developers/security/README.md)
   * [Immunefi Program](https://immunefi.com/bounty/elementfinance/)
   * [Oracles](developers/security/oracles.md)
-* [Github](https://github.com/delv-tech)
+* [Github](https://github.com/delvtech)
 * [Construction Paper](https://paper.element.fi)
 
 ## Governance (Council)
@@ -91,7 +91,7 @@
   * [Deployed Contracts](governance-council/airdrop/deployed-contracts.md)
   * [History](governance-council/council-protocol-smart-contracts/history.md)
 * [Glossary (Governance)](governance-council/glossary-governance.md)
-* [Audits](https://github.com/delv-tech/council/tree/main/audits)
+* [Audits](https://github.com/delvtech/council/tree/main/audits)
 
 ## ELFIVERSE
 

@@ -2,7 +2,7 @@
 
 * **Contract Name:** Timelock.sol
 * **Type/Category:** Governance
-* **Contract Source:**[https://github.com/delv-tech/council/blob/main/contracts/features/Timelock.sol](https://github.com/delv-tech/council/blob/main/contracts/features/Timelock.sol)
+* **Contract Source:**[https://github.com/delvtech/council/blob/main/contracts/features/Timelock.sol](https://github.com/delvtech/council/blob/main/contracts/features/Timelock.sol)
 
 ## **1. Introduction (Summary)**
 

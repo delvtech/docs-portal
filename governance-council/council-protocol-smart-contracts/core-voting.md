@@ -2,7 +2,7 @@
 
 * **Contract Name:** CoreVoting.sol
 * **Type/Category:** Governance
-* **Contract Source:** https://github.com/delv-tech/council/blob/main/contracts/CoreVoting.sol
+* **Contract Source:** https://github.com/delvtech/council/blob/main/contracts/CoreVoting.sol
 
 ## 1. Introduction (Summary)
 

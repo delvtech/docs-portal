@@ -2,7 +2,7 @@
 
 * **Contract Name:** LockingVault.sol
 * **Type/Category:** Voting Vault/Governance
-* **Contract Source:** https://github.com/delv-tech/council/blob/main/contracts/vaults/LockingVault.sol
+* **Contract Source:** https://github.com/delvtech/council/blob/main/contracts/vaults/LockingVault.sol
 
 ## **1. Introduction (Summary)**
 

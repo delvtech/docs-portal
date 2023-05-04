@@ -2,7 +2,7 @@
 
 * **Contract Name:** GSCVault.sol
 * **Type/Category:** Voting Vault/Governance
-* **Contract Source:**[https://github.com/delv-tech/council/blob/main/contracts/vaults/GSCVault.sol](https://github.com/delv-tech/council/blob/main/contracts/vaults/GSCVault.sol)
+* **Contract Source:**[https://github.com/delvtech/council/blob/main/contracts/vaults/GSCVault.sol](https://github.com/delvtech/council/blob/main/contracts/vaults/GSCVault.sol)
 
 ## **1. Introduction (Summary)**
 

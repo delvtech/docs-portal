@@ -3,7 +3,7 @@
 * **Contract Name:** TrancheFactory
 * **Type/Category:** Core
 * **Associated System Diagram**: n/a
-* **Contract Source:** [https://github.com/delv-tech/elf-contracts/blob/main/contracts/factories/TrancheFactory.sol](https://github.com/delv-tech/elf-contracts/blob/main/contracts/factories/TrancheFactory.sol)
+* **Contract Source:** [https://github.com/delvtech/elf-contracts/blob/main/contracts/factories/TrancheFactory.sol](https://github.com/delvtech/elf-contracts/blob/main/contracts/factories/TrancheFactory.sol)
 
 ## 1. Overview
 

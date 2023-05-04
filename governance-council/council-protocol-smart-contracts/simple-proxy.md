@@ -2,7 +2,7 @@
 
 * **Contract Name:** SimpleProxy.sol
 * **Type/Category:** Proxy
-* \*\*Contract Source: \*\* [https://github.com/delv-tech/council/blob/main/contracts/simpleProxy.sol](https://github.com/delv-tech/council/blob/main/contracts/simpleProxy.sol)
+* \*\*Contract Source: \*\* [https://github.com/delvtech/council/blob/main/contracts/simpleProxy.sol](https://github.com/delvtech/council/blob/main/contracts/simpleProxy.sol)
 
 ## **1. Introduction (Summary)**
 

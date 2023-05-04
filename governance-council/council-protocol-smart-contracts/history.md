@@ -2,7 +2,7 @@
 
 * **Contract Name:** History.sol
 * **Type/Category:** Library
-* **Contract Source:**[https://github.com/delv-tech/council/blob/main/contracts/libraries/History.sol](https://github.com/delv-tech/council/blob/main/contracts/libraries/History.sol)
+* **Contract Source:**[https://github.com/delvtech/council/blob/main/contracts/libraries/History.sol](https://github.com/delvtech/council/blob/main/contracts/libraries/History.sol)
 
 ## **1. Introduction (Summary)**
 
