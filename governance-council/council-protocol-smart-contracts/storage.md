@@ -2,7 +2,7 @@
 
 * **Contract Name:** Storage.sol
 * **Type/Category:** Library
-* **Contract Source:**[https://github.com/delv-tech/council/blob/main/contracts/libraries/Storage.sol](https://github.com/delv-tech/council/blob/main/contracts/libraries/Storage.sol)
+* **Contract Source:**[https://github.com/delvtech/council/blob/main/contracts/libraries/Storage.sol](https://github.com/delvtech/council/blob/main/contracts/libraries/Storage.sol)
 
 ## **1. Introduction (Summary)**
 

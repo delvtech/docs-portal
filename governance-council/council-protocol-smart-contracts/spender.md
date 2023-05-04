@@ -2,7 +2,7 @@
 
 * **Contract Name:** Spender.sol
 * **Type/Category:** Treasury/Governance
-* **Contract Source:**[https://github.com/delv-tech/council/blob/main/contracts/features/Spender.sol](https://github.com/delv-tech/council/blob/main/contracts/features/Spender.sol)
+* **Contract Source:**[https://github.com/delvtech/council/blob/main/contracts/features/Spender.sol](https://github.com/delvtech/council/blob/main/contracts/features/Spender.sol)
 
 ## **1. Introduction (Summary)**
 

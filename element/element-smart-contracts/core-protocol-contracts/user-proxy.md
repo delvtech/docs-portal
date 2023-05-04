@@ -3,7 +3,7 @@
 * **Contract Name:** UserProxy
 * **Type/Category:** Core/Proxy
 * **Associated System Diagram**: n/a
-* **Contract Source:** [https://github.com/delv-tech/elf-contracts/blob/main/contracts/UserProxy.sol](https://github.com/delv-tech/elf-contracts/blob/main/contracts/UserProxy.sol)
+* **Contract Source:** [https://github.com/delvtech/elf-contracts/blob/main/contracts/UserProxy.sol](https://github.com/delvtech/elf-contracts/blob/main/contracts/UserProxy.sol)
 
 ## 1. Overview
 

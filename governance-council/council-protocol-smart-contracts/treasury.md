@@ -2,7 +2,7 @@
 
 * **Contract Name: Treasury.sol**
 * **Type/Category:** Treasury/Governance
-* **Contract Source:**[https://github.com/delv-tech/council/blob/main/contracts/features/Treasury.sol](https://github.com/delv-tech/council/blob/main/contracts/features/Treasury.sol)
+* **Contract Source:**[https://github.com/delvtech/council/blob/main/contracts/features/Treasury.sol](https://github.com/delvtech/council/blob/main/contracts/features/Treasury.sol)
 
 ## **1. Introduction (Summary)**
 
