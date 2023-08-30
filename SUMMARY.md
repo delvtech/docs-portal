@@ -37,7 +37,7 @@
 ## Developers
 
 * [Public Release Changelog](developers/public-releases.md)
-* [Element SDK](https://github.com/delvtech/elf-sdk)
+* [Elf SDK](https://github.com/delvtech/elf-sdk)
 * [Deployment Guide](https://github.com/delvtech/elf-deploy)
 * [Security](developers/security/README.md)
   * [Immunefi Program](https://immunefi.com/bounty/elementfinance/)

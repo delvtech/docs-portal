@@ -10,10 +10,10 @@ Element Finance is a decentralized finance protocol that enables users to seek h
 
 Within the Element Protocol, there are 3 types of Users.
 
-****[**Fixed Rate Buyers**: ](getting-started/buying-fixed-rates.md)These are the users who BUY PRINCIPAL TOKENS at a discount facilitated by our AMMs. _Users are **ONLY** earning a Fixed Rate if they **BUY PRINCIPAL TOKENS AT A DISCOUNT**, Users who Mint Principal Tokens and Yield Tokens are not earning a Fixed Rate._
+[**Fixed Rate Buyers**: ](getting-started/buying-fixed-rates.md)These are the users who BUY PRINCIPAL TOKENS at a discount facilitated by our AMMs. _Users are **ONLY** earning a Fixed Rate if they **BUY PRINCIPAL TOKENS AT A DISCOUNT**, Users who Mint Principal Tokens and Yield Tokens are not earning a Fixed Rate._
 
-****[**Variable Rate Depositors**:](getting-started/earning-variable-rates.md) These are users who _**DEPOSIT THEIR BASE ASSET**_ into Element to _**MINT PRINCIPAL TOKENS AND YIELD TOKENS.**_
+[**Variable Rate Depositors**:](getting-started/earning-variable-rates.md) These are users who _**DEPOSIT THEIR BASE ASSET**_ into Element to _**MINT PRINCIPAL TOKENS AND YIELD TOKENS.**_
 
-****[**Liquidity Providers:**](getting-started/providing-liquidity.md) These are users who provide liquidity into the Element AMM’s. Users require both Principal Tokens as well as the underlying asset to provide liquidity into the fixed rate AMM and will earn trading fees.
+[**Liquidity Providers:**](getting-started/providing-liquidity.md) These are users who provide liquidity into the Element AMM’s. Users require both Principal Tokens as well as the underlying asset to provide liquidity into the fixed rate AMM and will earn trading fees.
 
 ![](<.gitbook/assets/photo\_2021-05-18 09.20.18.jpeg>)

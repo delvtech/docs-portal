@@ -8,7 +8,7 @@ To buy fixed rate interest, simply launch the Element [platform ](https://www.el
 
 Within this page, you will be given the option to select which discounted asset you would like to **buy** and start earning a fixed rate interest after making the purchase.
 
-![](<../.gitbook/assets/Screen Shot 2022-03-30 at 4.56.43 PM (1) (1) (1).png>)
+![](<../.gitbook/assets/Screen Shot 2022-03-30 at 4.56.43 PM (1) (1) (1) (2) (2).png>)
 
 **Fixed Rates are earned by purchasing the liquidity provider's Principal Tokens at a discount.**
 
