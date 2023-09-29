@@ -27,7 +27,7 @@ description: >-
 | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------------------ |
 | GSC Proposal Threshold   | The amount of GSC members needed to propose a GSC vote on-chain.                                                                                                                         | 1            | Undetermined             |
 | GSC Delegation Threshold | A threshold of delegated voting power, giving delegates a seat on the GSC. This comes with additional governance powers within the system, and as a result, additional responsibilities. | 110 thousand | 0.90% (1/10th of Quorum) |
-| GSC Quorum               | The required minimum number of GSC members needed to support a proposal for it to succeed.                                                                                               | 1            | N/a                      |
+| GSC Quorum               | The required minimum number of GSC members needed to support a proposal for it to succeed.                                                                                               | 3            | N/a                      |
 
 
 
