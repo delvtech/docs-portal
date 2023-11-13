@@ -88,10 +88,10 @@
 * [Airdrop](governance-council/airdrop/README.md)
   * [Storage](governance-council/council-protocol-smart-contracts/storage.md)
   * [Guide: Discord ZK Claim Flow](governance-council/airdrop/discord.md)
-  * [Deployed Contracts](governance-council/airdrop/deployed-contracts.md)
   * [History](governance-council/council-protocol-smart-contracts/history.md)
 * [Glossary (Governance)](governance-council/glossary-governance.md)
 * [Audits](https://github.com/delvtech/council/tree/main/audits)
+* [Deployed Contract Addresses](governance-council/deployed-contracts.md)
 
 ## ELFIVERSE
 
